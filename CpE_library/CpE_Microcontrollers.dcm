@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CpE-3002_PIC18F47K40
+D PIC18F47K40 Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/PIC18LF27_47K40-Data-Sheet-40001844E.pdf
+$ENDCMP
+#
+#End Doc Library

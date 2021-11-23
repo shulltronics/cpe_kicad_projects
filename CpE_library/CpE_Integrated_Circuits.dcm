@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CpE-3003_MAX6954
+D Character LED Driver, SSOP-36, SPI Interface
+F https://datasheets.maximintegrated.com/en/ds/MAX6954.pdf
+$ENDCMP
+#
+$CMP CpE-3004_LP2985_LDO_1v8
+F https://www.ti.com/lit/ds/symlink/lp2985.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1637600572863
+$ENDCMP
+#
+#End Doc Library

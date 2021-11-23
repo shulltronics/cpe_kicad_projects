@@ -1,0 +1,25 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CpE-3001_Capacitor_0.1uF_0402
+D Unpolarized capacitor
+K cap capacitor
+F https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL05A104KA5NNNC.pdf
+$ENDCMP
+#
+$CMP CpE-3007_Capacitor_22pF_50V_0402
+F https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL05C220JB5NNNC_Spec.pdf
+$ENDCMP
+#
+$CMP CpE-3009_10uF_50V_
+F https://www.we-online.com/katalog/datasheet/865080642006.pdf
+$ENDCMP
+#
+$CMP CpE-3009_10uF_50V_5.0mm
+F https://www.we-online.com/katalog/datasheet/865080642006.pdf
+$ENDCMP
+#
+$CMP CpE-3010_47uF_35V_6.3mm
+F https://www.we-online.com/katalog/datasheet/865080543009.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CpE-3003_MAX6954
+D Character LED Driver, SSOP-36, SPI Interface
+F https://datasheets.maximintegrated.com/en/ds/MAX6954.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,2182 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr B 17000 11000
+encoding utf-8
+Sheet 3 3
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC U?
+U 1 1 6234BDB4
+P 2750 6300
+AR Path="/6234BDB4" Ref="U?"  Part="1" 
+AR Path="/619E20D9/6234BDB4" Ref="U?"  Part="1" 
+AR Path="/619E20D9/61A1AFF4/6234BDB4" Ref="U12"  Part="1" 
+F 0 "U12" H 2450 5650 50  0000 C CNN
+F 1 "CpE-3006_14SEG_GRN_CC" H 2750 7250 50  0001 C CNN
+F 2 "CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC" H 2750 6300 50  0001 C CNN
+F 3 "https://www.kingbrightusa.com/images/catalog/SPEC/ACPSC04-41CGKWA.pdf" H 2750 6300 50  0001 C CNN
+F 4 "3006" H 2750 7350 50  0001 C CNN "CpE_PN"
+	1    2750 6300
+	1    0    0    1   
+$EndComp
+$Comp
+L CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC U?
+U 1 1 6234BDBB
+P 2750 4750
+AR Path="/6234BDBB" Ref="U?"  Part="1" 
+AR Path="/619E20D9/6234BDBB" Ref="U?"  Part="1" 
+AR Path="/619E20D9/61A1AFF4/6234BDBB" Ref="U11"  Part="1" 
+F 0 "U11" H 2450 4100 50  0000 C CNN
+F 1 "CpE-3006_14SEG_GRN_CC" H 2750 5700 50  0001 C CNN
+F 2 "CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC" H 2750 4750 50  0001 C CNN
+F 3 "https://www.kingbrightusa.com/images/catalog/SPEC/ACPSC04-41CGKWA.pdf" H 2750 4750 50  0001 C CNN
+F 4 "3006" H 2750 5800 50  0001 C CNN "CpE_PN"
+	1    2750 4750
+	1    0    0    1   
+$EndComp
+$Comp
+L CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC U?
+U 1 1 6234BDC2
+P 2750 3200
+AR Path="/6234BDC2" Ref="U?"  Part="1" 
+AR Path="/619E20D9/6234BDC2" Ref="U?"  Part="1" 
+AR Path="/619E20D9/61A1AFF4/6234BDC2" Ref="U10"  Part="1" 
+F 0 "U10" H 2450 2550 50  0000 C CNN
+F 1 "CpE-3006_14SEG_GRN_CC" H 2750 4150 50  0001 C CNN
+F 2 "CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC" H 2750 3200 50  0001 C CNN
+F 3 "https://www.kingbrightusa.com/images/catalog/SPEC/ACPSC04-41CGKWA.pdf" H 2750 3200 50  0001 C CNN
+F 4 "3006" H 2750 4250 50  0001 C CNN "CpE_PN"
+	1    2750 3200
+	1    0    0    1   
+$EndComp
+$Comp
+L CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC U?
+U 1 1 6234BDC9
+P 2750 1650
+AR Path="/6234BDC9" Ref="U?"  Part="1" 
+AR Path="/619E20D9/6234BDC9" Ref="U?"  Part="1" 
+AR Path="/619E20D9/61A1AFF4/6234BDC9" Ref="U9"  Part="1" 
+F 0 "U9" H 2450 950 50  0000 C CNN
+F 1 "CpE-3006_14SEG_GRN_CC" H 2750 2600 50  0001 C CNN
+F 2 "CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC" H 2750 1650 50  0001 C CNN
+F 3 "https://www.kingbrightusa.com/images/catalog/SPEC/ACPSC04-41CGKWA.pdf" H 2750 1650 50  0001 C CNN
+F 4 "3006" H 2750 2700 50  0001 C CNN "CpE_PN"
+	1    2750 1650
+	1    0    0    1   
+$EndComp
+$Comp
+L CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC U?
+U 1 1 6234BDD0
+P 1800 6300
+AR Path="/6234BDD0" Ref="U?"  Part="1" 
+AR Path="/619E20D9/6234BDD0" Ref="U?"  Part="1" 
+AR Path="/619E20D9/61A1AFF4/6234BDD0" Ref="U8"  Part="1" 
+F 0 "U8" H 1500 5650 50  0000 C CNN
+F 1 "CpE-3006_14SEG_GRN_CC" H 1800 7250 50  0001 C CNN
+F 2 "CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC" H 1800 6300 50  0001 C CNN
+F 3 "https://www.kingbrightusa.com/images/catalog/SPEC/ACPSC04-41CGKWA.pdf" H 1800 6300 50  0001 C CNN
+F 4 "3006" H 1800 7350 50  0001 C CNN "CpE_PN"
+	1    1800 6300
+	-1   0    0    1   
+$EndComp
+$Comp
+L CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC U?
+U 1 1 6234BDD7
+P 1800 4750
+AR Path="/6234BDD7" Ref="U?"  Part="1" 
+AR Path="/619E20D9/6234BDD7" Ref="U?"  Part="1" 
+AR Path="/619E20D9/61A1AFF4/6234BDD7" Ref="U7"  Part="1" 
+F 0 "U7" H 1500 4100 50  0000 C CNN
+F 1 "CpE-3006_14SEG_GRN_CC" H 1800 5700 50  0001 C CNN
+F 2 "CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC" H 1800 4750 50  0001 C CNN
+F 3 "https://www.kingbrightusa.com/images/catalog/SPEC/ACPSC04-41CGKWA.pdf" H 1800 4750 50  0001 C CNN
+F 4 "3006" H 1800 5800 50  0001 C CNN "CpE_PN"
+	1    1800 4750
+	-1   0    0    1   
+$EndComp
+$Comp
+L CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC U?
+U 1 1 6234BDDE
+P 1800 3200
+AR Path="/6234BDDE" Ref="U?"  Part="1" 
+AR Path="/619E20D9/6234BDDE" Ref="U?"  Part="1" 
+AR Path="/619E20D9/61A1AFF4/6234BDDE" Ref="U6"  Part="1" 
+F 0 "U6" H 1500 2550 50  0000 C CNN
+F 1 "CpE-3006_14SEG_GRN_CC" H 1800 4150 50  0001 C CNN
+F 2 "CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC" H 1800 3200 50  0001 C CNN
+F 3 "https://www.kingbrightusa.com/images/catalog/SPEC/ACPSC04-41CGKWA.pdf" H 1800 3200 50  0001 C CNN
+F 4 "3006" H 1800 4250 50  0001 C CNN "CpE_PN"
+	1    1800 3200
+	-1   0    0    1   
+$EndComp
+$Comp
+L CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC U?
+U 1 1 6234BDE5
+P 1800 1650
+AR Path="/6234BDE5" Ref="U?"  Part="1" 
+AR Path="/619E20D9/6234BDE5" Ref="U?"  Part="1" 
+AR Path="/619E20D9/61A1AFF4/6234BDE5" Ref="U5"  Part="1" 
+F 0 "U5" H 1500 950 50  0000 C CNN
+F 1 "CpE-3006_14SEG_GRN_CC" H 1800 2600 50  0001 C CNN
+F 2 "CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC" H 1800 1650 50  0001 C CNN
+F 3 "https://www.kingbrightusa.com/images/catalog/SPEC/ACPSC04-41CGKWA.pdf" H 1800 1650 50  0001 C CNN
+F 4 "3006" H 1800 2700 50  0001 C CNN "CpE_PN"
+	1    1800 1650
+	-1   0    0    1   
+$EndComp
+Entry Wire Line
+	1000 7000 900  7100
+Text Label 1450 7000 2    50   ~ 0
+GRP0_SEGG1
+Text Label 1400 6100 2    50   ~ 0
+GRP0_SEGA
+Text Label 1400 6000 2    50   ~ 0
+GRP0_SEGB
+Text Label 1400 6500 2    50   ~ 0
+GRP0_SEGC
+Text Label 1400 6400 2    50   ~ 0
+GRP0_SEGD
+Text Label 1400 6300 2    50   ~ 0
+GRP0_SEGE
+Text Label 1400 5600 2    50   ~ 0
+GRP0_SEGF
+Text Label 1400 6200 2    50   ~ 0
+GRP0_SEGH
+Text Label 1400 5700 2    50   ~ 0
+GRP0_SEGI
+Text Label 1400 5800 2    50   ~ 0
+GRP0_SEGJ
+Text Label 1450 5900 2    50   ~ 0
+GRP0_SEGG2
+Text Label 1400 6700 2    50   ~ 0
+GRP0_SEGK
+Text Label 1400 6800 2    50   ~ 0
+GRP0_SEGL
+Text Label 1400 6900 2    50   ~ 0
+GRP0_SEGM
+Text Label 1450 6600 2    50   ~ 0
+GRP0_SEGDP
+Entry Wire Line
+	1000 6900 900  7000
+Entry Wire Line
+	1000 6800 900  6900
+Entry Wire Line
+	1000 6700 900  6800
+Entry Wire Line
+	1000 6600 900  6700
+Entry Wire Line
+	1000 6500 900  6600
+Entry Wire Line
+	1000 6400 900  6500
+Entry Wire Line
+	1000 6300 900  6400
+Entry Wire Line
+	1000 6200 900  6300
+Entry Wire Line
+	1000 6100 900  6200
+Entry Wire Line
+	1000 6000 900  6100
+Entry Wire Line
+	1000 5900 900  6000
+Entry Wire Line
+	1000 5800 900  5900
+Entry Wire Line
+	1000 5700 900  5800
+Entry Wire Line
+	1000 5600 900  5700
+Wire Wire Line
+	1000 5600 1500 5600
+Wire Wire Line
+	1500 5700 1000 5700
+Wire Wire Line
+	1000 5800 1500 5800
+Wire Wire Line
+	1500 5900 1000 5900
+Wire Wire Line
+	1000 6000 1500 6000
+Wire Wire Line
+	1500 6100 1000 6100
+Wire Wire Line
+	1000 6200 1500 6200
+Wire Wire Line
+	1500 6300 1000 6300
+Wire Wire Line
+	1000 6400 1500 6400
+Wire Wire Line
+	1500 6500 1000 6500
+Wire Wire Line
+	1000 6600 1500 6600
+Wire Wire Line
+	1500 6700 1000 6700
+Wire Wire Line
+	1000 6800 1500 6800
+Wire Wire Line
+	1500 6900 1000 6900
+Wire Wire Line
+	1000 7000 1500 7000
+Entry Wire Line
+	1000 5450 900  5550
+Text Label 1450 5450 2    50   ~ 0
+GRP0_SEGG1
+Text Label 1400 4550 2    50   ~ 0
+GRP0_SEGA
+Text Label 1400 4450 2    50   ~ 0
+GRP0_SEGB
+Text Label 1400 4950 2    50   ~ 0
+GRP0_SEGC
+Text Label 1400 4850 2    50   ~ 0
+GRP0_SEGD
+Text Label 1400 4750 2    50   ~ 0
+GRP0_SEGE
+Text Label 1400 4050 2    50   ~ 0
+GRP0_SEGF
+Text Label 1400 4650 2    50   ~ 0
+GRP0_SEGH
+Text Label 1400 4150 2    50   ~ 0
+GRP0_SEGI
+Text Label 1400 4250 2    50   ~ 0
+GRP0_SEGJ
+Text Label 1450 4350 2    50   ~ 0
+GRP0_SEGG2
+Text Label 1400 5150 2    50   ~ 0
+GRP0_SEGK
+Text Label 1400 5250 2    50   ~ 0
+GRP0_SEGL
+Text Label 1400 5350 2    50   ~ 0
+GRP0_SEGM
+Text Label 1450 5050 2    50   ~ 0
+GRP0_SEGDP
+Entry Wire Line
+	1000 5350 900  5450
+Entry Wire Line
+	1000 5250 900  5350
+Entry Wire Line
+	1000 5150 900  5250
+Entry Wire Line
+	1000 5050 900  5150
+Entry Wire Line
+	1000 4950 900  5050
+Entry Wire Line
+	1000 4850 900  4950
+Entry Wire Line
+	1000 4750 900  4850
+Entry Wire Line
+	1000 4650 900  4750
+Entry Wire Line
+	1000 4550 900  4650
+Entry Wire Line
+	1000 4450 900  4550
+Entry Wire Line
+	1000 4350 900  4450
+Entry Wire Line
+	1000 4250 900  4350
+Entry Wire Line
+	1000 4150 900  4250
+Entry Wire Line
+	1000 4050 900  4150
+Wire Wire Line
+	1000 4050 1500 4050
+Wire Wire Line
+	1500 4150 1000 4150
+Wire Wire Line
+	1000 4250 1500 4250
+Wire Wire Line
+	1500 4350 1000 4350
+Wire Wire Line
+	1000 4450 1500 4450
+Wire Wire Line
+	1500 4550 1000 4550
+Wire Wire Line
+	1000 4650 1500 4650
+Wire Wire Line
+	1500 4750 1000 4750
+Wire Wire Line
+	1000 4850 1500 4850
+Wire Wire Line
+	1500 4950 1000 4950
+Wire Wire Line
+	1000 5050 1500 5050
+Wire Wire Line
+	1500 5150 1000 5150
+Wire Wire Line
+	1000 5250 1500 5250
+Wire Wire Line
+	1500 5350 1000 5350
+Wire Wire Line
+	1000 5450 1500 5450
+Entry Wire Line
+	1000 3900 900  4000
+Text Label 1450 3900 2    50   ~ 0
+GRP0_SEGG1
+Text Label 1400 3000 2    50   ~ 0
+GRP0_SEGA
+Text Label 1400 2900 2    50   ~ 0
+GRP0_SEGB
+Text Label 1400 3400 2    50   ~ 0
+GRP0_SEGC
+Text Label 1400 3300 2    50   ~ 0
+GRP0_SEGD
+Text Label 1400 3200 2    50   ~ 0
+GRP0_SEGE
+Text Label 1400 2500 2    50   ~ 0
+GRP0_SEGF
+Text Label 1400 3100 2    50   ~ 0
+GRP0_SEGH
+Text Label 1400 2600 2    50   ~ 0
+GRP0_SEGI
+Text Label 1400 2700 2    50   ~ 0
+GRP0_SEGJ
+Text Label 1450 2800 2    50   ~ 0
+GRP0_SEGG2
+Text Label 1400 3600 2    50   ~ 0
+GRP0_SEGK
+Text Label 1400 3700 2    50   ~ 0
+GRP0_SEGL
+Text Label 1400 3800 2    50   ~ 0
+GRP0_SEGM
+Text Label 1450 3500 2    50   ~ 0
+GRP0_SEGDP
+Entry Wire Line
+	1000 3800 900  3900
+Entry Wire Line
+	1000 3700 900  3800
+Entry Wire Line
+	1000 3600 900  3700
+Entry Wire Line
+	1000 3500 900  3600
+Entry Wire Line
+	1000 3400 900  3500
+Entry Wire Line
+	1000 3300 900  3400
+Entry Wire Line
+	1000 3200 900  3300
+Entry Wire Line
+	1000 3100 900  3200
+Entry Wire Line
+	1000 3000 900  3100
+Entry Wire Line
+	1000 2900 900  3000
+Entry Wire Line
+	1000 2800 900  2900
+Entry Wire Line
+	1000 2700 900  2800
+Entry Wire Line
+	1000 2600 900  2700
+Entry Wire Line
+	1000 2500 900  2600
+Wire Wire Line
+	1000 2500 1500 2500
+Wire Wire Line
+	1500 2600 1000 2600
+Wire Wire Line
+	1000 2700 1500 2700
+Wire Wire Line
+	1500 2800 1000 2800
+Wire Wire Line
+	1000 2900 1500 2900
+Wire Wire Line
+	1500 3000 1000 3000
+Wire Wire Line
+	1000 3100 1500 3100
+Wire Wire Line
+	1500 3200 1000 3200
+Wire Wire Line
+	1000 3300 1500 3300
+Wire Wire Line
+	1500 3400 1000 3400
+Wire Wire Line
+	1000 3500 1500 3500
+Wire Wire Line
+	1500 3600 1000 3600
+Wire Wire Line
+	1000 3700 1500 3700
+Wire Wire Line
+	1500 3800 1000 3800
+Wire Wire Line
+	1000 3900 1500 3900
+Entry Wire Line
+	1000 2350 900  2450
+Text Label 1450 2350 2    50   ~ 0
+GRP0_SEGG1
+Text Label 1400 1450 2    50   ~ 0
+GRP0_SEGA
+Text Label 1400 1350 2    50   ~ 0
+GRP0_SEGB
+Text Label 1400 1850 2    50   ~ 0
+GRP0_SEGC
+Text Label 1400 1750 2    50   ~ 0
+GRP0_SEGD
+Text Label 1400 1650 2    50   ~ 0
+GRP0_SEGE
+Text Label 1400 950  2    50   ~ 0
+GRP0_SEGF
+Text Label 1400 1550 2    50   ~ 0
+GRP0_SEGH
+Text Label 1400 1050 2    50   ~ 0
+GRP0_SEGI
+Text Label 1400 1150 2    50   ~ 0
+GRP0_SEGJ
+Text Label 1450 1250 2    50   ~ 0
+GRP0_SEGG2
+Text Label 1400 2050 2    50   ~ 0
+GRP0_SEGK
+Text Label 1400 2150 2    50   ~ 0
+GRP0_SEGL
+Text Label 1400 2250 2    50   ~ 0
+GRP0_SEGM
+Text Label 1450 1950 2    50   ~ 0
+GRP0_SEGDP
+Entry Wire Line
+	1000 2250 900  2350
+Entry Wire Line
+	1000 2150 900  2250
+Entry Wire Line
+	1000 2050 900  2150
+Entry Wire Line
+	1000 1950 900  2050
+Entry Wire Line
+	1000 1850 900  1950
+Entry Wire Line
+	1000 1750 900  1850
+Entry Wire Line
+	1000 1650 900  1750
+Entry Wire Line
+	1000 1550 900  1650
+Entry Wire Line
+	1000 1450 900  1550
+Entry Wire Line
+	1000 1350 900  1450
+Entry Wire Line
+	1000 1250 900  1350
+Entry Wire Line
+	1000 1150 900  1250
+Entry Wire Line
+	1000 1050 900  1150
+Entry Wire Line
+	1000 950  900  1050
+Wire Wire Line
+	1000 950  1500 950 
+Wire Wire Line
+	1500 1050 1000 1050
+Wire Wire Line
+	1000 1150 1500 1150
+Wire Wire Line
+	1500 1250 1000 1250
+Wire Wire Line
+	1000 1350 1500 1350
+Wire Wire Line
+	1500 1450 1000 1450
+Wire Wire Line
+	1000 1550 1500 1550
+Wire Wire Line
+	1500 1650 1000 1650
+Wire Wire Line
+	1000 1750 1500 1750
+Wire Wire Line
+	1500 1850 1000 1850
+Wire Wire Line
+	1000 1950 1500 1950
+Wire Wire Line
+	1500 2050 1000 2050
+Wire Wire Line
+	1000 2150 1500 2150
+Wire Wire Line
+	1500 2250 1000 2250
+Wire Wire Line
+	1000 2350 1500 2350
+Text Label 2200 1650 3    50   ~ 0
+DIGIT0
+Text Label 2200 3200 3    50   ~ 0
+DIGIT1
+Text Label 2200 4750 3    50   ~ 0
+DIGIT2
+Text Label 2200 6300 3    50   ~ 0
+DIGIT3
+Text Label 2400 3200 1    50   ~ 0
+DIGIT5
+Text Label 2400 4750 1    50   ~ 0
+DIGIT6
+Text Label 2400 6300 1    50   ~ 0
+DIGIT7
+Text Label 2400 1650 1    50   ~ 0
+DIGIT4
+Entry Wire Line
+	3550 7000 3650 7100
+Text Label 3100 7000 0    50   ~ 0
+GRP0_SEGG1
+Text Label 3150 6100 0    50   ~ 0
+GRP0_SEGA
+Text Label 3150 6000 0    50   ~ 0
+GRP0_SEGB
+Text Label 3150 6500 0    50   ~ 0
+GRP0_SEGC
+Text Label 3150 6400 0    50   ~ 0
+GRP0_SEGD
+Text Label 3150 6300 0    50   ~ 0
+GRP0_SEGE
+Text Label 3150 5600 0    50   ~ 0
+GRP0_SEGF
+Text Label 3150 6200 0    50   ~ 0
+GRP0_SEGH
+Text Label 3150 5700 0    50   ~ 0
+GRP0_SEGI
+Text Label 3150 5800 0    50   ~ 0
+GRP0_SEGJ
+Text Label 3100 5900 0    50   ~ 0
+GRP0_SEGG2
+Text Label 3150 6700 0    50   ~ 0
+GRP0_SEGK
+Text Label 3150 6800 0    50   ~ 0
+GRP0_SEGL
+Text Label 3150 6900 0    50   ~ 0
+GRP0_SEGM
+Text Label 3100 6600 0    50   ~ 0
+GRP0_SEGDP
+Entry Wire Line
+	3550 6900 3650 7000
+Entry Wire Line
+	3550 6800 3650 6900
+Entry Wire Line
+	3550 6700 3650 6800
+Entry Wire Line
+	3550 6600 3650 6700
+Entry Wire Line
+	3550 6500 3650 6600
+Entry Wire Line
+	3550 6400 3650 6500
+Entry Wire Line
+	3550 6300 3650 6400
+Entry Wire Line
+	3550 6200 3650 6300
+Entry Wire Line
+	3550 6100 3650 6200
+Entry Wire Line
+	3550 6000 3650 6100
+Entry Wire Line
+	3550 5900 3650 6000
+Entry Wire Line
+	3550 5800 3650 5900
+Entry Wire Line
+	3550 5700 3650 5800
+Entry Wire Line
+	3550 5600 3650 5700
+Wire Wire Line
+	3550 5600 3050 5600
+Wire Wire Line
+	3050 5700 3550 5700
+Wire Wire Line
+	3550 5800 3050 5800
+Wire Wire Line
+	3050 5900 3550 5900
+Wire Wire Line
+	3550 6000 3050 6000
+Wire Wire Line
+	3050 6100 3550 6100
+Wire Wire Line
+	3550 6200 3050 6200
+Wire Wire Line
+	3050 6300 3550 6300
+Wire Wire Line
+	3550 6400 3050 6400
+Wire Wire Line
+	3050 6500 3550 6500
+Wire Wire Line
+	3550 6600 3050 6600
+Wire Wire Line
+	3050 6700 3550 6700
+Wire Wire Line
+	3550 6800 3050 6800
+Wire Wire Line
+	3050 6900 3550 6900
+Wire Wire Line
+	3550 7000 3050 7000
+Entry Wire Line
+	3550 5450 3650 5550
+Text Label 3100 5450 0    50   ~ 0
+GRP0_SEGG1
+Text Label 3150 4550 0    50   ~ 0
+GRP0_SEGA
+Text Label 3150 4450 0    50   ~ 0
+GRP0_SEGB
+Text Label 3150 4950 0    50   ~ 0
+GRP0_SEGC
+Text Label 3150 4850 0    50   ~ 0
+GRP0_SEGD
+Text Label 3150 4750 0    50   ~ 0
+GRP0_SEGE
+Text Label 3150 4050 0    50   ~ 0
+GRP0_SEGF
+Text Label 3150 4650 0    50   ~ 0
+GRP0_SEGH
+Text Label 3150 4150 0    50   ~ 0
+GRP0_SEGI
+Text Label 3150 4250 0    50   ~ 0
+GRP0_SEGJ
+Text Label 3100 4350 0    50   ~ 0
+GRP0_SEGG2
+Text Label 3150 5150 0    50   ~ 0
+GRP0_SEGK
+Text Label 3150 5250 0    50   ~ 0
+GRP0_SEGL
+Text Label 3150 5350 0    50   ~ 0
+GRP0_SEGM
+Text Label 3100 5050 0    50   ~ 0
+GRP0_SEGDP
+Entry Wire Line
+	3550 5350 3650 5450
+Entry Wire Line
+	3550 5250 3650 5350
+Entry Wire Line
+	3550 5150 3650 5250
+Entry Wire Line
+	3550 5050 3650 5150
+Entry Wire Line
+	3550 4950 3650 5050
+Entry Wire Line
+	3550 4850 3650 4950
+Entry Wire Line
+	3550 4750 3650 4850
+Entry Wire Line
+	3550 4650 3650 4750
+Entry Wire Line
+	3550 4550 3650 4650
+Entry Wire Line
+	3550 4450 3650 4550
+Entry Wire Line
+	3550 4350 3650 4450
+Entry Wire Line
+	3550 4250 3650 4350
+Entry Wire Line
+	3550 4150 3650 4250
+Entry Wire Line
+	3550 4050 3650 4150
+Wire Wire Line
+	3550 4050 3050 4050
+Wire Wire Line
+	3050 4150 3550 4150
+Wire Wire Line
+	3550 4250 3050 4250
+Wire Wire Line
+	3050 4350 3550 4350
+Wire Wire Line
+	3550 4450 3050 4450
+Wire Wire Line
+	3050 4550 3550 4550
+Wire Wire Line
+	3550 4650 3050 4650
+Wire Wire Line
+	3050 4750 3550 4750
+Wire Wire Line
+	3550 4850 3050 4850
+Wire Wire Line
+	3050 4950 3550 4950
+Wire Wire Line
+	3550 5050 3050 5050
+Wire Wire Line
+	3050 5150 3550 5150
+Wire Wire Line
+	3550 5250 3050 5250
+Wire Wire Line
+	3050 5350 3550 5350
+Wire Wire Line
+	3550 5450 3050 5450
+Entry Wire Line
+	3550 3900 3650 4000
+Text Label 3100 3900 0    50   ~ 0
+GRP0_SEGG1
+Text Label 3150 3000 0    50   ~ 0
+GRP0_SEGA
+Text Label 3150 2900 0    50   ~ 0
+GRP0_SEGB
+Text Label 3150 3400 0    50   ~ 0
+GRP0_SEGC
+Text Label 3150 3300 0    50   ~ 0
+GRP0_SEGD
+Text Label 3150 3200 0    50   ~ 0
+GRP0_SEGE
+Text Label 3150 2500 0    50   ~ 0
+GRP0_SEGF
+Text Label 3150 3100 0    50   ~ 0
+GRP0_SEGH
+Text Label 3150 2600 0    50   ~ 0
+GRP0_SEGI
+Text Label 3150 2700 0    50   ~ 0
+GRP0_SEGJ
+Text Label 3100 2800 0    50   ~ 0
+GRP0_SEGG2
+Text Label 3150 3600 0    50   ~ 0
+GRP0_SEGK
+Text Label 3150 3700 0    50   ~ 0
+GRP0_SEGL
+Text Label 3150 3800 0    50   ~ 0
+GRP0_SEGM
+Text Label 3100 3500 0    50   ~ 0
+GRP0_SEGDP
+Entry Wire Line
+	3550 3800 3650 3900
+Entry Wire Line
+	3550 3700 3650 3800
+Entry Wire Line
+	3550 3600 3650 3700
+Entry Wire Line
+	3550 3500 3650 3600
+Entry Wire Line
+	3550 3400 3650 3500
+Entry Wire Line
+	3550 3300 3650 3400
+Entry Wire Line
+	3550 3200 3650 3300
+Entry Wire Line
+	3550 3100 3650 3200
+Entry Wire Line
+	3550 3000 3650 3100
+Entry Wire Line
+	3550 2900 3650 3000
+Entry Wire Line
+	3550 2800 3650 2900
+Entry Wire Line
+	3550 2700 3650 2800
+Entry Wire Line
+	3550 2600 3650 2700
+Entry Wire Line
+	3550 2500 3650 2600
+Wire Wire Line
+	3550 2500 3050 2500
+Wire Wire Line
+	3050 2600 3550 2600
+Wire Wire Line
+	3550 2700 3050 2700
+Wire Wire Line
+	3050 2800 3550 2800
+Wire Wire Line
+	3550 2900 3050 2900
+Wire Wire Line
+	3050 3000 3550 3000
+Wire Wire Line
+	3550 3100 3050 3100
+Wire Wire Line
+	3050 3200 3550 3200
+Wire Wire Line
+	3550 3300 3050 3300
+Wire Wire Line
+	3050 3400 3550 3400
+Wire Wire Line
+	3550 3500 3050 3500
+Wire Wire Line
+	3050 3600 3550 3600
+Wire Wire Line
+	3550 3700 3050 3700
+Wire Wire Line
+	3050 3800 3550 3800
+Wire Wire Line
+	3550 3900 3050 3900
+Entry Wire Line
+	3550 2350 3650 2450
+Text Label 3100 2350 0    50   ~ 0
+GRP0_SEGG1
+Text Label 3150 1450 0    50   ~ 0
+GRP0_SEGA
+Text Label 3150 1350 0    50   ~ 0
+GRP0_SEGB
+Text Label 3150 1850 0    50   ~ 0
+GRP0_SEGC
+Text Label 3150 1750 0    50   ~ 0
+GRP0_SEGD
+Text Label 3150 1650 0    50   ~ 0
+GRP0_SEGE
+Text Label 3150 950  0    50   ~ 0
+GRP0_SEGF
+Text Label 3150 1550 0    50   ~ 0
+GRP0_SEGH
+Text Label 3150 1050 0    50   ~ 0
+GRP0_SEGI
+Text Label 3150 1150 0    50   ~ 0
+GRP0_SEGJ
+Text Label 3100 1250 0    50   ~ 0
+GRP0_SEGG2
+Text Label 3150 2050 0    50   ~ 0
+GRP0_SEGK
+Text Label 3150 2150 0    50   ~ 0
+GRP0_SEGL
+Text Label 3150 2250 0    50   ~ 0
+GRP0_SEGM
+Text Label 3100 1950 0    50   ~ 0
+GRP0_SEGDP
+Entry Wire Line
+	3550 2250 3650 2350
+Entry Wire Line
+	3550 2150 3650 2250
+Entry Wire Line
+	3550 2050 3650 2150
+Entry Wire Line
+	3550 1950 3650 2050
+Entry Wire Line
+	3550 1850 3650 1950
+Entry Wire Line
+	3550 1750 3650 1850
+Entry Wire Line
+	3550 1650 3650 1750
+Entry Wire Line
+	3550 1550 3650 1650
+Entry Wire Line
+	3550 1450 3650 1550
+Entry Wire Line
+	3550 1350 3650 1450
+Entry Wire Line
+	3550 1250 3650 1350
+Entry Wire Line
+	3550 1150 3650 1250
+Entry Wire Line
+	3550 1050 3650 1150
+Entry Wire Line
+	3550 950  3650 1050
+Wire Wire Line
+	3550 950  3050 950 
+Wire Wire Line
+	3050 1050 3550 1050
+Wire Wire Line
+	3550 1150 3050 1150
+Wire Wire Line
+	3050 1250 3550 1250
+Wire Wire Line
+	3550 1350 3050 1350
+Wire Wire Line
+	3050 1450 3550 1450
+Wire Wire Line
+	3550 1550 3050 1550
+Wire Wire Line
+	3050 1650 3550 1650
+Wire Wire Line
+	3550 1750 3050 1750
+Wire Wire Line
+	3050 1850 3550 1850
+Wire Wire Line
+	3550 1950 3050 1950
+Wire Wire Line
+	3050 2050 3550 2050
+Wire Wire Line
+	3550 2150 3050 2150
+Wire Wire Line
+	3050 2250 3550 2250
+Wire Wire Line
+	3550 2350 3050 2350
+Entry Wire Line
+	2300 1750 2400 1650
+Entry Wire Line
+	2200 1650 2300 1750
+Wire Wire Line
+	2100 1650 2200 1650
+Wire Wire Line
+	2400 1650 2450 1650
+Entry Wire Line
+	2300 3300 2400 3200
+Entry Wire Line
+	2200 3200 2300 3300
+Entry Wire Line
+	2300 4850 2400 4750
+Entry Wire Line
+	2200 4750 2300 4850
+Entry Wire Line
+	2300 6400 2400 6300
+Entry Wire Line
+	2200 6300 2300 6400
+Wire Wire Line
+	2400 6300 2450 6300
+Wire Wire Line
+	2100 6300 2200 6300
+Wire Wire Line
+	2100 4750 2200 4750
+Wire Wire Line
+	2400 4750 2450 4750
+Wire Wire Line
+	2400 3200 2450 3200
+Wire Wire Line
+	2100 3200 2200 3200
+Entry Wire Line
+	2300 7900 2400 8000
+Entry Wire Line
+	2300 7800 2400 7900
+Entry Wire Line
+	2300 7700 2400 7800
+Entry Wire Line
+	2300 7600 2400 7700
+Entry Wire Line
+	2300 7500 2400 7600
+Entry Wire Line
+	2300 7400 2400 7500
+Entry Wire Line
+	2300 7300 2400 7400
+Entry Wire Line
+	2300 7200 2400 7300
+Text Label 2400 7300 0    50   ~ 0
+DIGIT0
+Text Label 2400 7400 0    50   ~ 0
+DIGIT1
+Text Label 2400 7500 0    50   ~ 0
+DIGIT2
+Text Label 2400 7600 0    50   ~ 0
+DIGIT3
+Text Label 2400 7700 0    50   ~ 0
+DIGIT4
+Text Label 2400 7800 0    50   ~ 0
+DIGIT5
+Text Label 2400 7900 0    50   ~ 0
+DIGIT6
+Text Label 2400 8000 0    50   ~ 0
+DIGIT7
+Text HLabel 2750 7300 2    50   Input ~ 0
+DIGIT0
+Wire Wire Line
+	2750 7300 2400 7300
+Text HLabel 2750 7400 2    50   Input ~ 0
+DIGIT1
+Text HLabel 2750 7500 2    50   Input ~ 0
+DIGIT2
+Text HLabel 2750 7600 2    50   Input ~ 0
+DIGIT3
+Text HLabel 2750 7700 2    50   Input ~ 0
+DIGIT4
+Text HLabel 2750 7800 2    50   Input ~ 0
+DIGIT5
+Text HLabel 2750 7900 2    50   Input ~ 0
+DIGIT6
+Text HLabel 2750 8000 2    50   Input ~ 0
+DIGIT7
+Wire Wire Line
+	2400 8000 2750 8000
+Wire Wire Line
+	2750 7900 2400 7900
+Wire Wire Line
+	2400 7800 2750 7800
+Wire Wire Line
+	2750 7700 2400 7700
+Wire Wire Line
+	2400 7600 2750 7600
+Wire Wire Line
+	2750 7500 2400 7500
+Wire Wire Line
+	2400 7400 2750 7400
+Wire Bus Line
+	900  8150 3650 8150
+Entry Wire Line
+	1000 9750 900  9850
+Text Label 1450 9750 2    50   ~ 0
+GRP0_SEGG1
+Text Label 1400 8850 2    50   ~ 0
+GRP0_SEGA
+Text Label 1400 8750 2    50   ~ 0
+GRP0_SEGB
+Text Label 1400 9250 2    50   ~ 0
+GRP0_SEGC
+Text Label 1400 9150 2    50   ~ 0
+GRP0_SEGD
+Text Label 1400 9050 2    50   ~ 0
+GRP0_SEGE
+Text Label 1400 8350 2    50   ~ 0
+GRP0_SEGF
+Text Label 1400 8950 2    50   ~ 0
+GRP0_SEGH
+Text Label 1400 8450 2    50   ~ 0
+GRP0_SEGI
+Text Label 1400 8550 2    50   ~ 0
+GRP0_SEGJ
+Text Label 1450 8650 2    50   ~ 0
+GRP0_SEGG2
+Text Label 1400 9450 2    50   ~ 0
+GRP0_SEGK
+Text Label 1400 9550 2    50   ~ 0
+GRP0_SEGL
+Text Label 1400 9650 2    50   ~ 0
+GRP0_SEGM
+Text Label 1450 9350 2    50   ~ 0
+GRP0_SEGDP
+Entry Wire Line
+	1000 9650 900  9750
+Entry Wire Line
+	1000 9550 900  9650
+Entry Wire Line
+	1000 9450 900  9550
+Entry Wire Line
+	1000 9350 900  9450
+Entry Wire Line
+	1000 9250 900  9350
+Entry Wire Line
+	1000 9150 900  9250
+Entry Wire Line
+	1000 9050 900  9150
+Entry Wire Line
+	1000 8950 900  9050
+Entry Wire Line
+	1000 8850 900  8950
+Entry Wire Line
+	1000 8750 900  8850
+Entry Wire Line
+	1000 8650 900  8750
+Entry Wire Line
+	1000 8550 900  8650
+Entry Wire Line
+	1000 8450 900  8550
+Entry Wire Line
+	1000 8350 900  8450
+Wire Wire Line
+	1000 8350 1500 8350
+Wire Wire Line
+	1500 8450 1000 8450
+Wire Wire Line
+	1000 8550 1500 8550
+Wire Wire Line
+	1500 8650 1000 8650
+Wire Wire Line
+	1000 8750 1500 8750
+Wire Wire Line
+	1500 8850 1000 8850
+Wire Wire Line
+	1000 8950 1500 8950
+Wire Wire Line
+	1500 9050 1000 9050
+Wire Wire Line
+	1000 9150 1500 9150
+Wire Wire Line
+	1500 9250 1000 9250
+Wire Wire Line
+	1000 9350 1500 9350
+Wire Wire Line
+	1500 9450 1000 9450
+Wire Wire Line
+	1000 9550 1500 9550
+Wire Wire Line
+	1500 9650 1000 9650
+Wire Wire Line
+	1000 9750 1500 9750
+Connection ~ 900  8150
+Text HLabel 1500 8850 2    50   Input ~ 0
+GRP0_SEGA
+Text HLabel 1500 8750 2    50   Input ~ 0
+GRP0_SEGB
+Text HLabel 1500 9250 2    50   Input ~ 0
+GRP0_SEGC
+Text HLabel 1500 9150 2    50   Input ~ 0
+GRP0_SEGD
+Text HLabel 1500 9050 2    50   Input ~ 0
+GRP0_SEGE
+Text HLabel 1500 8950 2    50   Input ~ 0
+GRP0_SEGH
+Text HLabel 1500 8650 2    50   Input ~ 0
+GRP0_SEGG2
+Text HLabel 1500 8550 2    50   Input ~ 0
+GRP0_SEGJ
+Text HLabel 1500 8450 2    50   Input ~ 0
+GRP0_SEGI
+Text HLabel 1500 8350 2    50   Input ~ 0
+GRP0_SEGF
+Text HLabel 1500 9350 2    50   Input ~ 0
+GRP0_SEGDP
+Text HLabel 1500 9450 2    50   Input ~ 0
+GRP0_SEGK
+Text HLabel 1500 9550 2    50   Input ~ 0
+GRP0_SEGL
+Text HLabel 1500 9650 2    50   Input ~ 0
+GRP0_SEGM
+Text HLabel 1500 9750 2    50   Input ~ 0
+GRP0_SEGG1
+$Comp
+L CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC U?
+U 1 1 626A20D5
+P 5950 6300
+AR Path="/626A20D5" Ref="U?"  Part="1" 
+AR Path="/619E20D9/626A20D5" Ref="U?"  Part="1" 
+AR Path="/619E20D9/61A1AFF4/626A20D5" Ref="U20"  Part="1" 
+F 0 "U20" H 5650 5650 50  0000 C CNN
+F 1 "CpE-3006_14SEG_GRN_CC" H 5950 7250 50  0001 C CNN
+F 2 "CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC" H 5950 6300 50  0001 C CNN
+F 3 "https://www.kingbrightusa.com/images/catalog/SPEC/ACPSC04-41CGKWA.pdf" H 5950 6300 50  0001 C CNN
+F 4 "3006" H 5950 7350 50  0001 C CNN "CpE_PN"
+	1    5950 6300
+	1    0    0    1   
+$EndComp
+$Comp
+L CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC U?
+U 1 1 626A20DC
+P 5950 4750
+AR Path="/626A20DC" Ref="U?"  Part="1" 
+AR Path="/619E20D9/626A20DC" Ref="U?"  Part="1" 
+AR Path="/619E20D9/61A1AFF4/626A20DC" Ref="U19"  Part="1" 
+F 0 "U19" H 5650 4100 50  0000 C CNN
+F 1 "CpE-3006_14SEG_GRN_CC" H 5950 5700 50  0001 C CNN
+F 2 "CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC" H 5950 4750 50  0001 C CNN
+F 3 "https://www.kingbrightusa.com/images/catalog/SPEC/ACPSC04-41CGKWA.pdf" H 5950 4750 50  0001 C CNN
+F 4 "3006" H 5950 5800 50  0001 C CNN "CpE_PN"
+	1    5950 4750
+	1    0    0    1   
+$EndComp
+$Comp
+L CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC U?
+U 1 1 626A20E3
+P 5950 3200
+AR Path="/626A20E3" Ref="U?"  Part="1" 
+AR Path="/619E20D9/626A20E3" Ref="U?"  Part="1" 
+AR Path="/619E20D9/61A1AFF4/626A20E3" Ref="U18"  Part="1" 
+F 0 "U18" H 5650 2550 50  0000 C CNN
+F 1 "CpE-3006_14SEG_GRN_CC" H 5950 4150 50  0001 C CNN
+F 2 "CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC" H 5950 3200 50  0001 C CNN
+F 3 "https://www.kingbrightusa.com/images/catalog/SPEC/ACPSC04-41CGKWA.pdf" H 5950 3200 50  0001 C CNN
+F 4 "3006" H 5950 4250 50  0001 C CNN "CpE_PN"
+	1    5950 3200
+	1    0    0    1   
+$EndComp
+$Comp
+L CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC U?
+U 1 1 626A20EA
+P 5950 1650
+AR Path="/626A20EA" Ref="U?"  Part="1" 
+AR Path="/619E20D9/626A20EA" Ref="U?"  Part="1" 
+AR Path="/619E20D9/61A1AFF4/626A20EA" Ref="U17"  Part="1" 
+F 0 "U17" H 5650 950 50  0000 C CNN
+F 1 "CpE-3006_14SEG_GRN_CC" H 5950 2600 50  0001 C CNN
+F 2 "CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC" H 5950 1650 50  0001 C CNN
+F 3 "https://www.kingbrightusa.com/images/catalog/SPEC/ACPSC04-41CGKWA.pdf" H 5950 1650 50  0001 C CNN
+F 4 "3006" H 5950 2700 50  0001 C CNN "CpE_PN"
+	1    5950 1650
+	1    0    0    1   
+$EndComp
+$Comp
+L CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC U?
+U 1 1 626A20F1
+P 5000 6300
+AR Path="/626A20F1" Ref="U?"  Part="1" 
+AR Path="/619E20D9/626A20F1" Ref="U?"  Part="1" 
+AR Path="/619E20D9/61A1AFF4/626A20F1" Ref="U16"  Part="1" 
+F 0 "U16" H 4700 5650 50  0000 C CNN
+F 1 "CpE-3006_14SEG_GRN_CC" H 5000 7250 50  0001 C CNN
+F 2 "CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC" H 5000 6300 50  0001 C CNN
+F 3 "https://www.kingbrightusa.com/images/catalog/SPEC/ACPSC04-41CGKWA.pdf" H 5000 6300 50  0001 C CNN
+F 4 "3006" H 5000 7350 50  0001 C CNN "CpE_PN"
+	1    5000 6300
+	-1   0    0    1   
+$EndComp
+$Comp
+L CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC U?
+U 1 1 626A20F8
+P 5000 4750
+AR Path="/626A20F8" Ref="U?"  Part="1" 
+AR Path="/619E20D9/626A20F8" Ref="U?"  Part="1" 
+AR Path="/619E20D9/61A1AFF4/626A20F8" Ref="U15"  Part="1" 
+F 0 "U15" H 4700 4100 50  0000 C CNN
+F 1 "CpE-3006_14SEG_GRN_CC" H 5000 5700 50  0001 C CNN
+F 2 "CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC" H 5000 4750 50  0001 C CNN
+F 3 "https://www.kingbrightusa.com/images/catalog/SPEC/ACPSC04-41CGKWA.pdf" H 5000 4750 50  0001 C CNN
+F 4 "3006" H 5000 5800 50  0001 C CNN "CpE_PN"
+	1    5000 4750
+	-1   0    0    1   
+$EndComp
+$Comp
+L CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC U?
+U 1 1 626A20FF
+P 5000 3200
+AR Path="/626A20FF" Ref="U?"  Part="1" 
+AR Path="/619E20D9/626A20FF" Ref="U?"  Part="1" 
+AR Path="/619E20D9/61A1AFF4/626A20FF" Ref="U14"  Part="1" 
+F 0 "U14" H 4700 2550 50  0000 C CNN
+F 1 "CpE-3006_14SEG_GRN_CC" H 5000 4150 50  0001 C CNN
+F 2 "CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC" H 5000 3200 50  0001 C CNN
+F 3 "https://www.kingbrightusa.com/images/catalog/SPEC/ACPSC04-41CGKWA.pdf" H 5000 3200 50  0001 C CNN
+F 4 "3006" H 5000 4250 50  0001 C CNN "CpE_PN"
+	1    5000 3200
+	-1   0    0    1   
+$EndComp
+$Comp
+L CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC U?
+U 1 1 626A2106
+P 5000 1650
+AR Path="/626A2106" Ref="U?"  Part="1" 
+AR Path="/619E20D9/626A2106" Ref="U?"  Part="1" 
+AR Path="/619E20D9/61A1AFF4/626A2106" Ref="U13"  Part="1" 
+F 0 "U13" H 4700 950 50  0000 C CNN
+F 1 "CpE-3006_14SEG_GRN_CC" H 5000 2600 50  0001 C CNN
+F 2 "CpE_Opto_Electronics:CpE-3006_14SEG_GRN_CC" H 5000 1650 50  0001 C CNN
+F 3 "https://www.kingbrightusa.com/images/catalog/SPEC/ACPSC04-41CGKWA.pdf" H 5000 1650 50  0001 C CNN
+F 4 "3006" H 5000 2700 50  0001 C CNN "CpE_PN"
+	1    5000 1650
+	-1   0    0    1   
+$EndComp
+Entry Wire Line
+	4200 7000 4100 7100
+Entry Wire Line
+	4200 6900 4100 7000
+Entry Wire Line
+	4200 6800 4100 6900
+Entry Wire Line
+	4200 6700 4100 6800
+Entry Wire Line
+	4200 6600 4100 6700
+Entry Wire Line
+	4200 6500 4100 6600
+Entry Wire Line
+	4200 6400 4100 6500
+Entry Wire Line
+	4200 6300 4100 6400
+Entry Wire Line
+	4200 6200 4100 6300
+Entry Wire Line
+	4200 6100 4100 6200
+Entry Wire Line
+	4200 6000 4100 6100
+Entry Wire Line
+	4200 5900 4100 6000
+Entry Wire Line
+	4200 5800 4100 5900
+Entry Wire Line
+	4200 5700 4100 5800
+Entry Wire Line
+	4200 5600 4100 5700
+Wire Wire Line
+	4200 5600 4700 5600
+Wire Wire Line
+	4700 5700 4200 5700
+Wire Wire Line
+	4200 5800 4700 5800
+Wire Wire Line
+	4700 5900 4200 5900
+Wire Wire Line
+	4200 6000 4700 6000
+Wire Wire Line
+	4700 6100 4200 6100
+Wire Wire Line
+	4200 6200 4700 6200
+Wire Wire Line
+	4700 6300 4200 6300
+Wire Wire Line
+	4200 6400 4700 6400
+Wire Wire Line
+	4700 6500 4200 6500
+Wire Wire Line
+	4200 6600 4700 6600
+Wire Wire Line
+	4700 6700 4200 6700
+Wire Wire Line
+	4200 6800 4700 6800
+Wire Wire Line
+	4700 6900 4200 6900
+Wire Wire Line
+	4200 7000 4700 7000
+Entry Wire Line
+	4200 5450 4100 5550
+Entry Wire Line
+	4200 5350 4100 5450
+Entry Wire Line
+	4200 5250 4100 5350
+Entry Wire Line
+	4200 5150 4100 5250
+Entry Wire Line
+	4200 5050 4100 5150
+Entry Wire Line
+	4200 4950 4100 5050
+Entry Wire Line
+	4200 4850 4100 4950
+Entry Wire Line
+	4200 4750 4100 4850
+Entry Wire Line
+	4200 4650 4100 4750
+Entry Wire Line
+	4200 4550 4100 4650
+Entry Wire Line
+	4200 4450 4100 4550
+Entry Wire Line
+	4200 4350 4100 4450
+Entry Wire Line
+	4200 4250 4100 4350
+Entry Wire Line
+	4200 4150 4100 4250
+Entry Wire Line
+	4200 4050 4100 4150
+Entry Wire Line
+	4200 3900 4100 4000
+Entry Wire Line
+	4200 3800 4100 3900
+Entry Wire Line
+	4200 3700 4100 3800
+Entry Wire Line
+	4200 3600 4100 3700
+Entry Wire Line
+	4200 3500 4100 3600
+Entry Wire Line
+	4200 3400 4100 3500
+Entry Wire Line
+	4200 3300 4100 3400
+Entry Wire Line
+	4200 3200 4100 3300
+Entry Wire Line
+	4200 3100 4100 3200
+Entry Wire Line
+	4200 3000 4100 3100
+Entry Wire Line
+	4200 2900 4100 3000
+Entry Wire Line
+	4200 2800 4100 2900
+Entry Wire Line
+	4200 2700 4100 2800
+Entry Wire Line
+	4200 2600 4100 2700
+Entry Wire Line
+	4200 2500 4100 2600
+Wire Wire Line
+	4200 2500 4700 2500
+Wire Wire Line
+	4700 2600 4200 2600
+Wire Wire Line
+	4200 2700 4700 2700
+Wire Wire Line
+	4700 2800 4200 2800
+Wire Wire Line
+	4200 2900 4700 2900
+Wire Wire Line
+	4700 3000 4200 3000
+Wire Wire Line
+	4200 3100 4700 3100
+Wire Wire Line
+	4700 3200 4200 3200
+Wire Wire Line
+	4200 3300 4700 3300
+Wire Wire Line
+	4700 3400 4200 3400
+Wire Wire Line
+	4200 3500 4700 3500
+Wire Wire Line
+	4700 3600 4200 3600
+Wire Wire Line
+	4200 3700 4700 3700
+Wire Wire Line
+	4700 3800 4200 3800
+Wire Wire Line
+	4200 3900 4700 3900
+Entry Wire Line
+	4200 2350 4100 2450
+Entry Wire Line
+	4200 2250 4100 2350
+Entry Wire Line
+	4200 2150 4100 2250
+Entry Wire Line
+	4200 2050 4100 2150
+Entry Wire Line
+	4200 1950 4100 2050
+Entry Wire Line
+	4200 1850 4100 1950
+Entry Wire Line
+	4200 1750 4100 1850
+Entry Wire Line
+	4200 1650 4100 1750
+Entry Wire Line
+	4200 1550 4100 1650
+Entry Wire Line
+	4200 1450 4100 1550
+Entry Wire Line
+	4200 1350 4100 1450
+Entry Wire Line
+	4200 1250 4100 1350
+Entry Wire Line
+	4200 1150 4100 1250
+Entry Wire Line
+	4200 1050 4100 1150
+Entry Wire Line
+	4200 950  4100 1050
+Wire Wire Line
+	4200 950  4700 950 
+Wire Wire Line
+	4700 1050 4200 1050
+Wire Wire Line
+	4200 1150 4700 1150
+Wire Wire Line
+	4700 1250 4200 1250
+Wire Wire Line
+	4200 1350 4700 1350
+Wire Wire Line
+	4700 1450 4200 1450
+Wire Wire Line
+	4200 1550 4700 1550
+Wire Wire Line
+	4700 1650 4200 1650
+Wire Wire Line
+	4200 1750 4700 1750
+Wire Wire Line
+	4700 1850 4200 1850
+Wire Wire Line
+	4200 1950 4700 1950
+Wire Wire Line
+	4700 2050 4200 2050
+Wire Wire Line
+	4200 2150 4700 2150
+Wire Wire Line
+	4700 2250 4200 2250
+Wire Wire Line
+	4200 2350 4700 2350
+Text Label 5400 1650 3    50   ~ 0
+DIGIT8
+Text Label 5400 3200 3    50   ~ 0
+DIGIT9
+Text Label 5400 4750 3    50   ~ 0
+DIGIT10
+Text Label 5400 6300 3    50   ~ 0
+DIGIT11
+Text Label 5600 3200 1    50   ~ 0
+DIGIT13
+Text Label 5600 4750 1    50   ~ 0
+DIGIT14
+Text Label 5600 6300 1    50   ~ 0
+DIGIT15
+Text Label 5600 1650 1    50   ~ 0
+DIGIT12
+Entry Wire Line
+	6750 7000 6850 7100
+Entry Wire Line
+	6750 6900 6850 7000
+Entry Wire Line
+	6750 6800 6850 6900
+Entry Wire Line
+	6750 6700 6850 6800
+Entry Wire Line
+	6750 6600 6850 6700
+Entry Wire Line
+	6750 6500 6850 6600
+Entry Wire Line
+	6750 6400 6850 6500
+Entry Wire Line
+	6750 6300 6850 6400
+Entry Wire Line
+	6750 6200 6850 6300
+Entry Wire Line
+	6750 6100 6850 6200
+Entry Wire Line
+	6750 6000 6850 6100
+Entry Wire Line
+	6750 5900 6850 6000
+Entry Wire Line
+	6750 5800 6850 5900
+Entry Wire Line
+	6750 5700 6850 5800
+Entry Wire Line
+	6750 5600 6850 5700
+Wire Wire Line
+	6750 5600 6250 5600
+Wire Wire Line
+	6250 5700 6750 5700
+Wire Wire Line
+	6750 5800 6250 5800
+Wire Wire Line
+	6250 5900 6750 5900
+Wire Wire Line
+	6750 6000 6250 6000
+Wire Wire Line
+	6250 6100 6750 6100
+Wire Wire Line
+	6750 6200 6250 6200
+Wire Wire Line
+	6250 6300 6750 6300
+Wire Wire Line
+	6750 6400 6250 6400
+Wire Wire Line
+	6250 6500 6750 6500
+Wire Wire Line
+	6750 6600 6250 6600
+Wire Wire Line
+	6250 6700 6750 6700
+Wire Wire Line
+	6750 6800 6250 6800
+Wire Wire Line
+	6250 6900 6750 6900
+Wire Wire Line
+	6750 7000 6250 7000
+Entry Wire Line
+	6750 5450 6850 5550
+Entry Wire Line
+	6750 5350 6850 5450
+Entry Wire Line
+	6750 5250 6850 5350
+Entry Wire Line
+	6750 5150 6850 5250
+Entry Wire Line
+	6750 5050 6850 5150
+Entry Wire Line
+	6750 4950 6850 5050
+Entry Wire Line
+	6750 4850 6850 4950
+Entry Wire Line
+	6750 4750 6850 4850
+Entry Wire Line
+	6750 4650 6850 4750
+Entry Wire Line
+	6750 4550 6850 4650
+Entry Wire Line
+	6750 4450 6850 4550
+Entry Wire Line
+	6750 4350 6850 4450
+Entry Wire Line
+	6750 4250 6850 4350
+Entry Wire Line
+	6750 4150 6850 4250
+Entry Wire Line
+	6750 4050 6850 4150
+Wire Wire Line
+	6750 4050 6250 4050
+Wire Wire Line
+	6250 4150 6750 4150
+Wire Wire Line
+	6750 4250 6250 4250
+Wire Wire Line
+	6250 4350 6750 4350
+Wire Wire Line
+	6750 4450 6250 4450
+Wire Wire Line
+	6250 4550 6750 4550
+Wire Wire Line
+	6750 4650 6250 4650
+Wire Wire Line
+	6250 4750 6750 4750
+Wire Wire Line
+	6750 4850 6250 4850
+Wire Wire Line
+	6250 4950 6750 4950
+Wire Wire Line
+	6750 5050 6250 5050
+Wire Wire Line
+	6250 5150 6750 5150
+Wire Wire Line
+	6750 5250 6250 5250
+Wire Wire Line
+	6250 5350 6750 5350
+Wire Wire Line
+	6750 5450 6250 5450
+Entry Wire Line
+	6750 3900 6850 4000
+Entry Wire Line
+	6750 3800 6850 3900
+Entry Wire Line
+	6750 3700 6850 3800
+Entry Wire Line
+	6750 3600 6850 3700
+Entry Wire Line
+	6750 3500 6850 3600
+Entry Wire Line
+	6750 3400 6850 3500
+Entry Wire Line
+	6750 3300 6850 3400
+Entry Wire Line
+	6750 3200 6850 3300
+Entry Wire Line
+	6750 3100 6850 3200
+Entry Wire Line
+	6750 3000 6850 3100
+Entry Wire Line
+	6750 2900 6850 3000
+Entry Wire Line
+	6750 2800 6850 2900
+Entry Wire Line
+	6750 2700 6850 2800
+Entry Wire Line
+	6750 2600 6850 2700
+Entry Wire Line
+	6750 2500 6850 2600
+Wire Wire Line
+	6750 2500 6250 2500
+Wire Wire Line
+	6250 2600 6750 2600
+Wire Wire Line
+	6750 2700 6250 2700
+Wire Wire Line
+	6250 2800 6750 2800
+Wire Wire Line
+	6750 2900 6250 2900
+Wire Wire Line
+	6250 3000 6750 3000
+Wire Wire Line
+	6750 3100 6250 3100
+Wire Wire Line
+	6250 3200 6750 3200
+Wire Wire Line
+	6750 3300 6250 3300
+Wire Wire Line
+	6250 3400 6750 3400
+Wire Wire Line
+	6750 3500 6250 3500
+Wire Wire Line
+	6250 3600 6750 3600
+Wire Wire Line
+	6750 3700 6250 3700
+Wire Wire Line
+	6250 3800 6750 3800
+Wire Wire Line
+	6750 3900 6250 3900
+Entry Wire Line
+	6750 2350 6850 2450
+Entry Wire Line
+	6750 2250 6850 2350
+Entry Wire Line
+	6750 2150 6850 2250
+Entry Wire Line
+	6750 2050 6850 2150
+Entry Wire Line
+	6750 1950 6850 2050
+Entry Wire Line
+	6750 1850 6850 1950
+Entry Wire Line
+	6750 1750 6850 1850
+Entry Wire Line
+	6750 1650 6850 1750
+Entry Wire Line
+	6750 1550 6850 1650
+Entry Wire Line
+	6750 1450 6850 1550
+Entry Wire Line
+	6750 1350 6850 1450
+Entry Wire Line
+	6750 1250 6850 1350
+Entry Wire Line
+	6750 1150 6850 1250
+Entry Wire Line
+	6750 1050 6850 1150
+Entry Wire Line
+	6750 950  6850 1050
+Wire Wire Line
+	6750 950  6250 950 
+Wire Wire Line
+	6250 1050 6750 1050
+Wire Wire Line
+	6750 1150 6250 1150
+Wire Wire Line
+	6250 1250 6750 1250
+Wire Wire Line
+	6750 1350 6250 1350
+Wire Wire Line
+	6250 1450 6750 1450
+Wire Wire Line
+	6750 1550 6250 1550
+Wire Wire Line
+	6250 1650 6750 1650
+Wire Wire Line
+	6750 1750 6250 1750
+Wire Wire Line
+	6250 1850 6750 1850
+Wire Wire Line
+	6750 1950 6250 1950
+Wire Wire Line
+	6250 2050 6750 2050
+Wire Wire Line
+	6750 2150 6250 2150
+Wire Wire Line
+	6250 2250 6750 2250
+Wire Wire Line
+	6750 2350 6250 2350
+Entry Wire Line
+	5500 1750 5600 1650
+Entry Wire Line
+	5400 1650 5500 1750
+Wire Wire Line
+	5300 1650 5400 1650
+Wire Wire Line
+	5600 1650 5650 1650
+Entry Wire Line
+	5500 3300 5600 3200
+Entry Wire Line
+	5400 3200 5500 3300
+Entry Wire Line
+	5500 4850 5600 4750
+Entry Wire Line
+	5400 4750 5500 4850
+Entry Wire Line
+	5500 6400 5600 6300
+Entry Wire Line
+	5400 6300 5500 6400
+Wire Wire Line
+	5600 6300 5650 6300
+Wire Wire Line
+	5300 6300 5400 6300
+Wire Wire Line
+	5300 4750 5400 4750
+Wire Wire Line
+	5600 4750 5650 4750
+Wire Wire Line
+	5600 3200 5650 3200
+Wire Wire Line
+	5300 3200 5400 3200
+Entry Wire Line
+	5500 7900 5600 8000
+Entry Wire Line
+	5500 7800 5600 7900
+Entry Wire Line
+	5500 7700 5600 7800
+Entry Wire Line
+	5500 7600 5600 7700
+Entry Wire Line
+	5500 7500 5600 7600
+Entry Wire Line
+	5500 7400 5600 7500
+Entry Wire Line
+	5500 7300 5600 7400
+Entry Wire Line
+	5500 7200 5600 7300
+Text Label 5600 7300 0    50   ~ 0
+DIGIT8
+Text Label 5600 7400 0    50   ~ 0
+DIGIT9
+Text Label 5600 7500 0    50   ~ 0
+DIGIT10
+Text Label 5600 7600 0    50   ~ 0
+DIGIT11
+Text Label 5600 7700 0    50   ~ 0
+DIGIT12
+Text Label 5600 7800 0    50   ~ 0
+DIGIT13
+Text Label 5600 7900 0    50   ~ 0
+DIGIT14
+Text Label 5600 8000 0    50   ~ 0
+DIGIT15
+Text HLabel 5950 7300 2    50   Input ~ 0
+DIGIT8
+Wire Wire Line
+	5950 7300 5600 7300
+Text HLabel 5950 7400 2    50   Input ~ 0
+DIGIT9
+Text HLabel 5950 7500 2    50   Input ~ 0
+DIGIT10
+Text HLabel 5950 7600 2    50   Input ~ 0
+DIGIT11
+Text HLabel 5950 7700 2    50   Input ~ 0
+DIGIT12
+Text HLabel 5950 7800 2    50   Input ~ 0
+DIGIT13
+Text HLabel 5950 7900 2    50   Input ~ 0
+DIGIT14
+Text HLabel 5950 8000 2    50   Input ~ 0
+DIGIT15
+Wire Wire Line
+	5600 8000 5950 8000
+Wire Wire Line
+	5950 7900 5600 7900
+Wire Wire Line
+	5600 7800 5950 7800
+Wire Wire Line
+	5950 7700 5600 7700
+Wire Wire Line
+	5600 7600 5950 7600
+Wire Wire Line
+	5950 7500 5600 7500
+Wire Wire Line
+	5600 7400 5950 7400
+Wire Bus Line
+	4100 8150 6850 8150
+Entry Wire Line
+	4200 9750 4100 9850
+Text Label 4650 9750 2    50   ~ 0
+GRP1_SEGG1
+Text Label 4600 8850 2    50   ~ 0
+GRP1_SEGA
+Text Label 4600 8750 2    50   ~ 0
+GRP1_SEGB
+Text Label 4600 9250 2    50   ~ 0
+GRP1_SEGC
+Text Label 4600 9150 2    50   ~ 0
+GRP1_SEGD
+Text Label 4600 9050 2    50   ~ 0
+GRP1_SEGE
+Text Label 4600 8350 2    50   ~ 0
+GRP1_SEGF
+Text Label 4600 8950 2    50   ~ 0
+GRP1_SEGH
+Text Label 4600 8450 2    50   ~ 0
+GRP1_SEGI
+Text Label 4600 8550 2    50   ~ 0
+GRP1_SEGJ
+Text Label 4650 8650 2    50   ~ 0
+GRP1_SEGG2
+Text Label 4600 9450 2    50   ~ 0
+GRP1_SEGK
+Text Label 4600 9550 2    50   ~ 0
+GRP1_SEGL
+Text Label 4600 9650 2    50   ~ 0
+GRP1_SEGM
+Text Label 4650 9350 2    50   ~ 0
+GRP1_SEGDP
+Entry Wire Line
+	4200 9650 4100 9750
+Entry Wire Line
+	4200 9550 4100 9650
+Entry Wire Line
+	4200 9450 4100 9550
+Entry Wire Line
+	4200 9350 4100 9450
+Entry Wire Line
+	4200 9250 4100 9350
+Entry Wire Line
+	4200 9150 4100 9250
+Entry Wire Line
+	4200 9050 4100 9150
+Entry Wire Line
+	4200 8950 4100 9050
+Entry Wire Line
+	4200 8850 4100 8950
+Entry Wire Line
+	4200 8750 4100 8850
+Entry Wire Line
+	4200 8650 4100 8750
+Entry Wire Line
+	4200 8550 4100 8650
+Entry Wire Line
+	4200 8450 4100 8550
+Entry Wire Line
+	4200 8350 4100 8450
+Wire Wire Line
+	4200 8350 4700 8350
+Wire Wire Line
+	4700 8450 4200 8450
+Wire Wire Line
+	4200 8550 4700 8550
+Wire Wire Line
+	4700 8650 4200 8650
+Wire Wire Line
+	4200 8750 4700 8750
+Wire Wire Line
+	4700 8850 4200 8850
+Wire Wire Line
+	4200 8950 4700 8950
+Wire Wire Line
+	4700 9050 4200 9050
+Wire Wire Line
+	4200 9150 4700 9150
+Wire Wire Line
+	4700 9250 4200 9250
+Wire Wire Line
+	4200 9350 4700 9350
+Wire Wire Line
+	4700 9450 4200 9450
+Wire Wire Line
+	4200 9550 4700 9550
+Wire Wire Line
+	4700 9650 4200 9650
+Wire Wire Line
+	4200 9750 4700 9750
+Connection ~ 4100 8150
+Text HLabel 4700 8850 2    50   Input ~ 0
+GRP1_SEGA
+Text HLabel 4700 8750 2    50   Input ~ 0
+GRP1_SEGB
+Text HLabel 4700 9250 2    50   Input ~ 0
+GRP1_SEGC
+Text HLabel 4700 9150 2    50   Input ~ 0
+GRP1_SEGD
+Text HLabel 4700 9050 2    50   Input ~ 0
+GRP1_SEGE
+Text HLabel 4700 8950 2    50   Input ~ 0
+GRP1_SEGH
+Text HLabel 4700 8650 2    50   Input ~ 0
+GRP1_SEGG2
+Text HLabel 4700 8550 2    50   Input ~ 0
+GRP1_SEGJ
+Text HLabel 4700 8450 2    50   Input ~ 0
+GRP1_SEGI
+Text HLabel 4700 8350 2    50   Input ~ 0
+GRP1_SEGF
+Text HLabel 4700 9350 2    50   Input ~ 0
+GRP1_SEGDP
+Text HLabel 4700 9450 2    50   Input ~ 0
+GRP1_SEGK
+Text HLabel 4700 9550 2    50   Input ~ 0
+GRP1_SEGL
+Text HLabel 4700 9650 2    50   Input ~ 0
+GRP1_SEGM
+Text HLabel 4700 9750 2    50   Input ~ 0
+GRP1_SEGG1
+Text Label 4700 7000 2    50   ~ 0
+GRP1_SEGG1
+Text Label 4650 6100 2    50   ~ 0
+GRP1_SEGA
+Text Label 4650 6000 2    50   ~ 0
+GRP1_SEGB
+Text Label 4650 6500 2    50   ~ 0
+GRP1_SEGC
+Text Label 4650 6400 2    50   ~ 0
+GRP1_SEGD
+Text Label 4650 6300 2    50   ~ 0
+GRP1_SEGE
+Text Label 4650 5600 2    50   ~ 0
+GRP1_SEGF
+Text Label 4650 6200 2    50   ~ 0
+GRP1_SEGH
+Text Label 4650 5700 2    50   ~ 0
+GRP1_SEGI
+Text Label 4650 5800 2    50   ~ 0
+GRP1_SEGJ
+Text Label 4700 5900 2    50   ~ 0
+GRP1_SEGG2
+Text Label 4650 6700 2    50   ~ 0
+GRP1_SEGK
+Text Label 4650 6800 2    50   ~ 0
+GRP1_SEGL
+Text Label 4650 6900 2    50   ~ 0
+GRP1_SEGM
+Text Label 4700 6600 2    50   ~ 0
+GRP1_SEGDP
+Wire Wire Line
+	4200 5450 4700 5450
+Wire Wire Line
+	4700 5350 4200 5350
+Wire Wire Line
+	4200 5250 4700 5250
+Wire Wire Line
+	4700 5150 4200 5150
+Wire Wire Line
+	4200 5050 4700 5050
+Wire Wire Line
+	4700 4950 4200 4950
+Wire Wire Line
+	4200 4850 4700 4850
+Wire Wire Line
+	4700 4750 4200 4750
+Wire Wire Line
+	4200 4650 4700 4650
+Wire Wire Line
+	4700 4550 4200 4550
+Wire Wire Line
+	4200 4450 4700 4450
+Wire Wire Line
+	4700 4350 4200 4350
+Wire Wire Line
+	4200 4250 4700 4250
+Wire Wire Line
+	4700 4150 4200 4150
+Wire Wire Line
+	4200 4050 4700 4050
+Text Label 4700 5450 2    50   ~ 0
+GRP1_SEGG1
+Text Label 4650 4550 2    50   ~ 0
+GRP1_SEGA
+Text Label 4650 4450 2    50   ~ 0
+GRP1_SEGB
+Text Label 4650 4950 2    50   ~ 0
+GRP1_SEGC
+Text Label 4650 4850 2    50   ~ 0
+GRP1_SEGD
+Text Label 4650 4750 2    50   ~ 0
+GRP1_SEGE
+Text Label 4650 4050 2    50   ~ 0
+GRP1_SEGF
+Text Label 4650 4650 2    50   ~ 0
+GRP1_SEGH
+Text Label 4650 4150 2    50   ~ 0
+GRP1_SEGI
+Text Label 4650 4250 2    50   ~ 0
+GRP1_SEGJ
+Text Label 4700 4350 2    50   ~ 0
+GRP1_SEGG2
+Text Label 4650 5150 2    50   ~ 0
+GRP1_SEGK
+Text Label 4650 5250 2    50   ~ 0
+GRP1_SEGL
+Text Label 4650 5350 2    50   ~ 0
+GRP1_SEGM
+Text Label 4700 5050 2    50   ~ 0
+GRP1_SEGDP
+Text Label 6750 5450 2    50   ~ 0
+GRP1_SEGG1
+Text Label 6700 4550 2    50   ~ 0
+GRP1_SEGA
+Text Label 6700 4450 2    50   ~ 0
+GRP1_SEGB
+Text Label 6700 4950 2    50   ~ 0
+GRP1_SEGC
+Text Label 6700 4850 2    50   ~ 0
+GRP1_SEGD
+Text Label 6700 4750 2    50   ~ 0
+GRP1_SEGE
+Text Label 6700 4050 2    50   ~ 0
+GRP1_SEGF
+Text Label 6700 4650 2    50   ~ 0
+GRP1_SEGH
+Text Label 6700 4150 2    50   ~ 0
+GRP1_SEGI
+Text Label 6700 4250 2    50   ~ 0
+GRP1_SEGJ
+Text Label 6750 4350 2    50   ~ 0
+GRP1_SEGG2
+Text Label 6700 5150 2    50   ~ 0
+GRP1_SEGK
+Text Label 6700 5250 2    50   ~ 0
+GRP1_SEGL
+Text Label 6700 5350 2    50   ~ 0
+GRP1_SEGM
+Text Label 6750 5050 2    50   ~ 0
+GRP1_SEGDP
+Text Label 4700 3900 2    50   ~ 0
+GRP1_SEGG1
+Text Label 4650 3000 2    50   ~ 0
+GRP1_SEGA
+Text Label 4650 2900 2    50   ~ 0
+GRP1_SEGB
+Text Label 4650 3400 2    50   ~ 0
+GRP1_SEGC
+Text Label 4650 3300 2    50   ~ 0
+GRP1_SEGD
+Text Label 4650 3200 2    50   ~ 0
+GRP1_SEGE
+Text Label 4650 2500 2    50   ~ 0
+GRP1_SEGF
+Text Label 4650 3100 2    50   ~ 0
+GRP1_SEGH
+Text Label 4650 2600 2    50   ~ 0
+GRP1_SEGI
+Text Label 4650 2700 2    50   ~ 0
+GRP1_SEGJ
+Text Label 4700 2800 2    50   ~ 0
+GRP1_SEGG2
+Text Label 4650 3600 2    50   ~ 0
+GRP1_SEGK
+Text Label 4650 3700 2    50   ~ 0
+GRP1_SEGL
+Text Label 4650 3800 2    50   ~ 0
+GRP1_SEGM
+Text Label 4700 3500 2    50   ~ 0
+GRP1_SEGDP
+Text Label 4700 2350 2    50   ~ 0
+GRP1_SEGG1
+Text Label 4650 1450 2    50   ~ 0
+GRP1_SEGA
+Text Label 4650 1350 2    50   ~ 0
+GRP1_SEGB
+Text Label 4650 1850 2    50   ~ 0
+GRP1_SEGC
+Text Label 4650 1750 2    50   ~ 0
+GRP1_SEGD
+Text Label 4650 1650 2    50   ~ 0
+GRP1_SEGE
+Text Label 4650 950  2    50   ~ 0
+GRP1_SEGF
+Text Label 4650 1550 2    50   ~ 0
+GRP1_SEGH
+Text Label 4650 1050 2    50   ~ 0
+GRP1_SEGI
+Text Label 4650 1150 2    50   ~ 0
+GRP1_SEGJ
+Text Label 4700 1250 2    50   ~ 0
+GRP1_SEGG2
+Text Label 4650 2050 2    50   ~ 0
+GRP1_SEGK
+Text Label 4650 2150 2    50   ~ 0
+GRP1_SEGL
+Text Label 4650 2250 2    50   ~ 0
+GRP1_SEGM
+Text Label 4700 1950 2    50   ~ 0
+GRP1_SEGDP
+Text Label 6750 3900 2    50   ~ 0
+GRP1_SEGG1
+Text Label 6700 3000 2    50   ~ 0
+GRP1_SEGA
+Text Label 6700 2900 2    50   ~ 0
+GRP1_SEGB
+Text Label 6700 3400 2    50   ~ 0
+GRP1_SEGC
+Text Label 6700 3300 2    50   ~ 0
+GRP1_SEGD
+Text Label 6700 3200 2    50   ~ 0
+GRP1_SEGE
+Text Label 6700 2500 2    50   ~ 0
+GRP1_SEGF
+Text Label 6700 3100 2    50   ~ 0
+GRP1_SEGH
+Text Label 6700 2600 2    50   ~ 0
+GRP1_SEGI
+Text Label 6700 2700 2    50   ~ 0
+GRP1_SEGJ
+Text Label 6750 2800 2    50   ~ 0
+GRP1_SEGG2
+Text Label 6700 3600 2    50   ~ 0
+GRP1_SEGK
+Text Label 6700 3700 2    50   ~ 0
+GRP1_SEGL
+Text Label 6700 3800 2    50   ~ 0
+GRP1_SEGM
+Text Label 6750 3500 2    50   ~ 0
+GRP1_SEGDP
+Text Label 6750 2350 2    50   ~ 0
+GRP1_SEGG1
+Text Label 6700 1450 2    50   ~ 0
+GRP1_SEGA
+Text Label 6700 1350 2    50   ~ 0
+GRP1_SEGB
+Text Label 6700 1850 2    50   ~ 0
+GRP1_SEGC
+Text Label 6700 1750 2    50   ~ 0
+GRP1_SEGD
+Text Label 6700 1650 2    50   ~ 0
+GRP1_SEGE
+Text Label 6700 950  2    50   ~ 0
+GRP1_SEGF
+Text Label 6700 1550 2    50   ~ 0
+GRP1_SEGH
+Text Label 6700 1050 2    50   ~ 0
+GRP1_SEGI
+Text Label 6700 1150 2    50   ~ 0
+GRP1_SEGJ
+Text Label 6750 1250 2    50   ~ 0
+GRP1_SEGG2
+Text Label 6700 2050 2    50   ~ 0
+GRP1_SEGK
+Text Label 6700 2150 2    50   ~ 0
+GRP1_SEGL
+Text Label 6700 2250 2    50   ~ 0
+GRP1_SEGM
+Text Label 6750 1950 2    50   ~ 0
+GRP1_SEGDP
+Text Label 6750 7000 2    50   ~ 0
+GRP1_SEGG1
+Text Label 6700 6100 2    50   ~ 0
+GRP1_SEGA
+Text Label 6700 6000 2    50   ~ 0
+GRP1_SEGB
+Text Label 6700 6500 2    50   ~ 0
+GRP1_SEGC
+Text Label 6700 6400 2    50   ~ 0
+GRP1_SEGD
+Text Label 6700 6300 2    50   ~ 0
+GRP1_SEGE
+Text Label 6700 5600 2    50   ~ 0
+GRP1_SEGF
+Text Label 6700 6200 2    50   ~ 0
+GRP1_SEGH
+Text Label 6700 5700 2    50   ~ 0
+GRP1_SEGI
+Text Label 6700 5800 2    50   ~ 0
+GRP1_SEGJ
+Text Label 6750 5900 2    50   ~ 0
+GRP1_SEGG2
+Text Label 6700 6700 2    50   ~ 0
+GRP1_SEGK
+Text Label 6700 6800 2    50   ~ 0
+GRP1_SEGL
+Text Label 6700 6900 2    50   ~ 0
+GRP1_SEGM
+Text Label 6750 6600 2    50   ~ 0
+GRP1_SEGDP
+Wire Bus Line
+	2300 1750 2300 7900
+Wire Bus Line
+	900  8150 900  9850
+Wire Bus Line
+	5500 1750 5500 7900
+Wire Bus Line
+	4100 8150 4100 9850
+Wire Bus Line
+	900  1050 900  8150
+Wire Bus Line
+	3650 1050 3650 8150
+Wire Bus Line
+	4100 1050 4100 8150
+Wire Bus Line
+	6850 1050 6850 8150
+$EndSCHEMATC

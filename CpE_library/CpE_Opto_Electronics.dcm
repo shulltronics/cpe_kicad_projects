@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CpE-3005_OLED_I2C_128x32
+F https://www.amazon.com/Pieces-Display-Module-SSD1306-3-3V-5V/dp/B08L7QW7SR/ref=sr_1_1?keywords=B08L7QW7SR&qid=1637605536&sr=8-1
+$ENDCMP
+#
+$CMP CpE-3006_14SEG_GRN_CC
+F https://www.kingbrightusa.com/images/catalog/SPEC/ACPSC04-41CGKWA.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,245 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 3
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L CpE_Microcontrollers:CpE-3002_PIC18F47K40 U1
+U 1 1 6186741E
+P 5800 4600
+F 0 "U1" H 6450 5450 50  0000 L CNN
+F 1 "CpE-3002_PIC18F47K40" H 4750 5600 50  0001 L CNN
+F 2 "CpE_Microcontroller:CpE-3002_TQFP-44_10x10mm_P0.8mm" H 5800 4600 50  0001 C CNN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/PIC18LF27_47K40-Data-Sheet-40001844E.pdf" H 5800 4600 50  0001 C CNN
+F 4 "CPE-3002" H 5850 4450 50  0001 C CNN "CpE_PN"
+F 5 "PIC18F47K40" H 5800 4800 50  0000 C CNN "Val"
+	1    5800 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L CpE_Power:GND #PWR02
+U 1 1 61868D95
+P 1000 6450
+F 0 "#PWR02" H 1000 6200 50  0001 C CNN
+F 1 "GND" H 1005 6277 50  0000 C CNN
+F 2 "" H 1000 6450 50  0001 C CNN
+F 3 "" H 1000 6450 50  0001 C CNN
+F 4 "NA" H 1000 6450 50  0001 C CNN "CpE_PN"
+	1    1000 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L CpE_Power:VCC #PWR01
+U 1 1 618692FD
+P 1000 5700
+F 0 "#PWR01" H 1000 5550 50  0001 C CNN
+F 1 "VCC" H 1015 5873 50  0000 C CNN
+F 2 "" H 1000 5700 50  0001 C CNN
+F 3 "" H 1000 5700 50  0001 C CNN
+F 4 "NA" H 1000 5700 50  0001 C CNN "CpE_PN"
+	1    1000 5700
+	1    0    0    -1  
+$EndComp
+$Sheet
+S 9300 1350 850  650 
+U 619E20D9
+F0 "display" 50
+F1 "display.sch" 50
+F2 "UI_CS" I L 9300 1450 50 
+F3 "UI_SCK" I L 9300 1600 50 
+F4 "UI_SDI" I L 9300 1750 50 
+F5 "UI_SDO" I L 9300 1900 50 
+$EndSheet
+$Comp
+L CpE_Capacitors:CpE-3001_Capacitor_0.1uF_0402 C1
+U 1 1 62A43BB1
+P 1000 6050
+F 0 "C1" H 1050 5950 50  0000 L CNN
+F 1 "CpE-3001_Capacitor_0.1uF_0402" H 1150 6000 50  0001 L CNN
+F 2 "CpE_Capacitors:CpE-3001_0402" H 1750 6200 50  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL05A104KA5NNNC.pdf" H 1000 6050 50  0001 C CNN
+F 4 "CPE-3001" H 1350 6100 50  0001 C CNN "CpE_PN"
+F 5 "0.1uF" H 1050 5850 50  0000 L CNN "Val"
+	1    1000 6050
+	1    0    0    -1  
+$EndComp
+$Comp
+L CpE_Capacitors:CpE-3001_Capacitor_0.1uF_0402 C4
+U 1 1 62A43E25
+P 2200 6050
+F 0 "C4" H 2250 5950 50  0000 L CNN
+F 1 "CpE-3001_Capacitor_0.1uF_0402" H 2350 6000 50  0001 L CNN
+F 2 "CpE_Capacitors:CpE-3001_0402" H 2950 6200 50  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL05A104KA5NNNC.pdf" H 2200 6050 50  0001 C CNN
+F 4 "CPE-3001" H 2550 6100 50  0001 C CNN "CpE_PN"
+F 5 "0.1uF" H 2250 5850 50  0000 L CNN "Val"
+	1    2200 6050
+	1    0    0    -1  
+$EndComp
+$Comp
+L CpE_Capacitors:CpE-3001_Capacitor_0.1uF_0402 C3
+U 1 1 62A4406C
+P 1800 6050
+F 0 "C3" H 1850 5950 50  0000 L CNN
+F 1 "CpE-3001_Capacitor_0.1uF_0402" H 1950 6000 50  0001 L CNN
+F 2 "CpE_Capacitors:CpE-3001_0402" H 2550 6200 50  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL05A104KA5NNNC.pdf" H 1800 6050 50  0001 C CNN
+F 4 "CPE-3001" H 2150 6100 50  0001 C CNN "CpE_PN"
+F 5 "0.1uF" H 1850 5850 50  0000 L CNN "Val"
+	1    1800 6050
+	1    0    0    -1  
+$EndComp
+$Comp
+L CpE_Capacitors:CpE-3001_Capacitor_0.1uF_0402 C5
+U 1 1 62A442A8
+P 2600 6050
+F 0 "C5" H 2650 5950 50  0000 L CNN
+F 1 "CpE-3001_Capacitor_0.1uF_0402" H 2750 6000 50  0001 L CNN
+F 2 "CpE_Capacitors:CpE-3001_0402" H 3350 6200 50  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL05A104KA5NNNC.pdf" H 2600 6050 50  0001 C CNN
+F 4 "CPE-3001" H 2950 6100 50  0001 C CNN "CpE_PN"
+F 5 "0.1uF" H 2650 5850 50  0000 L CNN "Val"
+	1    2600 6050
+	1    0    0    -1  
+$EndComp
+$Comp
+L CpE_Capacitors:CpE-3001_Capacitor_0.1uF_0402 C2
+U 1 1 62A44461
+P 1400 6050
+F 0 "C2" H 1450 5950 50  0000 L CNN
+F 1 "CpE-3001_Capacitor_0.1uF_0402" H 1550 6000 50  0001 L CNN
+F 2 "CpE_Capacitors:CpE-3001_0402" H 2150 6200 50  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL05A104KA5NNNC.pdf" H 1400 6050 50  0001 C CNN
+F 4 "CPE-3001" H 1750 6100 50  0001 C CNN "CpE_PN"
+F 5 "0.1uF" H 1450 5850 50  0000 L CNN "Val"
+	1    1400 6050
+	1    0    0    -1  
+$EndComp
+$Comp
+L CpE_Capacitors:CpE-3001_Capacitor_0.1uF_0402 C6
+U 1 1 62A4478E
+P 3000 6050
+F 0 "C6" H 3050 5950 50  0000 L CNN
+F 1 "CpE-3001_Capacitor_0.1uF_0402" H 3150 6000 50  0001 L CNN
+F 2 "CpE_Capacitors:CpE-3001_0402" H 3750 6200 50  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL05A104KA5NNNC.pdf" H 3000 6050 50  0001 C CNN
+F 4 "CPE-3001" H 3350 6100 50  0001 C CNN "CpE_PN"
+F 5 "0.1uF" H 3050 5850 50  0000 L CNN "Val"
+	1    3000 6050
+	1    0    0    -1  
+$EndComp
+$Comp
+L CpE_Capacitors:CpE-3009_10uF_50V_5.0mm C11
+U 1 1 62FDBE86
+P 3400 6050
+F 0 "C11" H 3450 5950 50  0000 L CNN
+F 1 "CpE-3009_10uF_50V_5.0mm" H 3950 6150 50  0001 C CNN
+F 2 "CpE_Capacitors:CpE_3009_10uF_50V_5.0mm_SMD" H 4450 5950 50  0001 C CNN
+F 3 "https://www.we-online.com/katalog/datasheet/865080642006.pdf" H 3400 6050 50  0001 C CNN
+F 4 "3009" H 3650 6050 50  0001 C CNN "CpE_PN"
+F 5 "10u" H 3450 5850 50  0000 L CNN "Val"
+	1    3400 6050
+	1    0    0    -1  
+$EndComp
+$Comp
+L CpE_Capacitors:CpE-3009_10uF_50V_5.0mm C12
+U 1 1 62FDD05E
+P 3750 6050
+F 0 "C12" H 3800 5950 50  0000 L CNN
+F 1 "CpE-3009_10uF_50V_5.0mm" H 4300 6150 50  0001 C CNN
+F 2 "CpE_Capacitors:CpE_3009_10uF_50V_5.0mm_SMD" H 4800 5950 50  0001 C CNN
+F 3 "https://www.we-online.com/katalog/datasheet/865080642006.pdf" H 3750 6050 50  0001 C CNN
+F 4 "3009" H 4000 6050 50  0001 C CNN "CpE_PN"
+F 5 "10u" H 3800 5850 50  0000 L CNN "Val"
+	1    3750 6050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1000 5700 1000 5800
+Wire Wire Line
+	1000 6450 1000 6350
+Wire Wire Line
+	1000 6350 1400 6350
+Wire Wire Line
+	3750 6350 3750 6200
+Connection ~ 1000 6350
+Wire Wire Line
+	1000 6350 1000 6200
+Wire Wire Line
+	3750 5900 3750 5800
+Wire Wire Line
+	3750 5800 3400 5800
+Connection ~ 1000 5800
+Wire Wire Line
+	1000 5800 1000 5900
+Connection ~ 1400 5800
+Wire Wire Line
+	1400 5800 1000 5800
+Wire Wire Line
+	1400 6200 1400 6350
+Connection ~ 1400 6350
+Wire Wire Line
+	1400 6350 1800 6350
+Wire Wire Line
+	1400 5800 1400 5900
+Wire Wire Line
+	1800 5900 1800 5800
+Connection ~ 1800 5800
+Wire Wire Line
+	1800 5800 1400 5800
+Wire Wire Line
+	2200 5900 2200 5800
+Connection ~ 2200 5800
+Wire Wire Line
+	2200 5800 1800 5800
+Wire Wire Line
+	2200 6200 2200 6350
+Connection ~ 2200 6350
+Wire Wire Line
+	2200 6350 2600 6350
+Wire Wire Line
+	1800 6200 1800 6350
+Connection ~ 1800 6350
+Wire Wire Line
+	1800 6350 2200 6350
+Wire Wire Line
+	2600 6350 2600 6200
+Connection ~ 2600 6350
+Wire Wire Line
+	2600 6350 3000 6350
+Wire Wire Line
+	2600 5900 2600 5800
+Connection ~ 2600 5800
+Wire Wire Line
+	2600 5800 2200 5800
+Wire Wire Line
+	3000 5900 3000 5800
+Connection ~ 3000 5800
+Wire Wire Line
+	3000 5800 2600 5800
+Wire Wire Line
+	3000 6200 3000 6350
+Connection ~ 3000 6350
+Wire Wire Line
+	3000 6350 3400 6350
+Wire Wire Line
+	3400 6200 3400 6350
+Connection ~ 3400 6350
+Wire Wire Line
+	3400 6350 3750 6350
+Wire Wire Line
+	3400 5900 3400 5800
+Connection ~ 3400 5800
+Wire Wire Line
+	3400 5800 3000 5800
+$EndSCHEMATC

@@ -1,0 +1,1487 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 3
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L CpE_Integrated_Circuits:CpE-3003_MAX6954 U?
+U 1 1 619E6C96
+P 4550 6250
+AR Path="/619E6C96" Ref="U?"  Part="1" 
+AR Path="/619E20D9/619E6C96" Ref="U4"  Part="1" 
+F 0 "U4" H 4550 7325 50  0000 C CNN
+F 1 "CpE-3003_MAX6954" H 4550 7234 50  0000 C CNN
+F 2 "CpE_Integrated_Circuits:CpE-3003_MAX6954AAX" H 4550 6250 50  0001 C CNN
+F 3 "https://datasheets.maximintegrated.com/en/ds/MAX6954.pdf" H 4550 6250 50  0001 C CNN
+F 4 "CPE-3003" H 4550 6250 50  0001 C CNN "CpE_PN"
+	1    4550 6250
+	1    0    0    -1  
+$EndComp
+$Comp
+L CpE_Integrated_Circuits:CpE-3003_MAX6954 U?
+U 1 1 619E6C9D
+P 4550 2050
+AR Path="/619E6C9D" Ref="U?"  Part="1" 
+AR Path="/619E20D9/619E6C9D" Ref="U2"  Part="1" 
+F 0 "U2" H 4550 3125 50  0000 C CNN
+F 1 "CpE-3003_MAX6954" H 4550 3034 50  0000 C CNN
+F 2 "CpE_Integrated_Circuits:CpE-3003_MAX6954AAX" H 4550 2050 50  0001 C CNN
+F 3 "https://datasheets.maximintegrated.com/en/ds/MAX6954.pdf" H 4550 2050 50  0001 C CNN
+F 4 "CPE-3003" H 4550 2050 50  0001 C CNN "CpE_PN"
+	1    4550 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L CpE_Integrated_Circuits:CpE-3003_MAX6954 U?
+U 1 1 61A0AC4E
+P 4550 4150
+AR Path="/61A0AC4E" Ref="U?"  Part="1" 
+AR Path="/619E20D9/61A0AC4E" Ref="U3"  Part="1" 
+F 0 "U3" H 4550 5225 50  0000 C CNN
+F 1 "CpE-3003_MAX6954" H 4550 5134 50  0000 C CNN
+F 2 "CpE_Integrated_Circuits:CpE-3003_MAX6954AAX" H 4550 4150 50  0001 C CNN
+F 3 "https://datasheets.maximintegrated.com/en/ds/MAX6954.pdf" H 4550 4150 50  0001 C CNN
+F 4 "CPE-3003" H 4550 4150 50  0001 C CNN "CpE_PN"
+	1    4550 4150
+	1    0    0    -1  
+$EndComp
+Text HLabel 1950 5600 0    50   Input ~ 0
+UI_CS
+Text HLabel 1950 1500 0    50   Input ~ 0
+UI_DOUT
+Text HLabel 1950 5800 0    50   Input ~ 0
+UI_SCK
+Text HLabel 1950 5900 0    50   Input ~ 0
+UI_DIN
+Wire Wire Line
+	2400 5700 2400 3800
+Text Label 2500 5700 0    50   ~ 0
+DC1
+Text Label 3750 3600 0    50   ~ 0
+DC2
+Wire Wire Line
+	2400 3600 2400 1700
+Wire Wire Line
+	2100 1400 2100 3500
+Wire Wire Line
+	1950 5600 2100 5600
+Connection ~ 2100 5600
+Wire Wire Line
+	1950 5800 2250 5800
+Connection ~ 2250 5800
+Text Label 3750 6000 0    50   ~ 0
+DIGIT0
+Text Label 3750 6100 0    50   ~ 0
+DIGIT1
+Text Label 3750 6200 0    50   ~ 0
+DIGIT2
+Text Label 3750 6300 0    50   ~ 0
+DIGIT3
+Text Label 3750 6400 0    50   ~ 0
+DIGIT4
+Text Label 3750 6500 0    50   ~ 0
+DIGIT5
+Text Label 3750 6600 0    50   ~ 0
+DIGIT6
+Text Label 3750 6700 0    50   ~ 0
+DIGIT7
+Wire Wire Line
+	3750 6100 4050 6100
+Wire Wire Line
+	3750 6700 4050 6700
+Text Label 3750 3900 0    50   ~ 0
+DIGIT8
+Text Label 3750 4000 0    50   ~ 0
+DIGIT9
+Text Label 3750 4100 0    50   ~ 0
+DIGIT10
+Text Label 3750 4200 0    50   ~ 0
+DIGIT11
+Text Label 3750 4300 0    50   ~ 0
+DIGIT12
+Text Label 3750 4400 0    50   ~ 0
+DIGIT13
+Text Label 3750 4500 0    50   ~ 0
+DIGIT14
+Text Label 3750 4600 0    50   ~ 0
+DIGIT15
+Wire Wire Line
+	3750 4600 4050 4600
+Wire Wire Line
+	3750 4000 4050 4000
+Text Label 3750 1800 0    50   ~ 0
+DIGIT16
+Text Label 3750 1900 0    50   ~ 0
+DIGIT17
+Text Label 3750 2000 0    50   ~ 0
+DIGIT18
+Text Label 3750 2100 0    50   ~ 0
+DIGIT19
+Text Label 3750 2200 0    50   ~ 0
+DIGIT20
+Text Label 3750 2300 0    50   ~ 0
+DIGIT21
+Text Label 3750 2400 0    50   ~ 0
+DIGIT22
+Text Label 3750 2500 0    50   ~ 0
+DIGIT23
+Wire Wire Line
+	3750 2500 4050 2500
+Wire Wire Line
+	3750 1900 4050 1900
+Text Label 5150 5900 0    50   ~ 0
+GRP0_SEGDP
+Text Label 5150 6000 0    50   ~ 0
+GRP0_SEGM
+Text Label 5150 6100 0    50   ~ 0
+GRP0_SEGL
+Text Label 5150 6200 0    50   ~ 0
+GRP0_SEGK
+Text Label 5150 6300 0    50   ~ 0
+GRP0_SEGJ
+Text Label 5150 6400 0    50   ~ 0
+GRP0_SEGI
+Text Label 5150 6500 0    50   ~ 0
+GRP0_SEGH
+Text Label 5150 6600 0    50   ~ 0
+GRP0_SEGG2
+Text Label 5150 6700 0    50   ~ 0
+GRP0_SEGG1
+Text Label 5150 6800 0    50   ~ 0
+GRP0_SEGF
+Text Label 3200 6800 0    50   ~ 0
+GRP0_SEGE
+Text Label 3200 6000 0    50   ~ 0
+GRP0_SEGA
+Text Label 2650 6200 0    50   ~ 0
+GRP0_SEGA
+Text Label 3200 6200 0    50   ~ 0
+GRP0_SEGB
+Text Label 3200 6300 0    50   ~ 0
+GRP0_SEGC
+Text Label 2650 6400 0    50   ~ 0
+GRP0_SEGB
+Text Label 3200 6400 0    50   ~ 0
+GRP0_SEGD
+Text Label 3200 6500 0    50   ~ 0
+GRP0_SEGC
+Text Label 3200 6600 0    50   ~ 0
+GRP0_SEGD
+Wire Wire Line
+	1950 5900 4050 5900
+Wire Wire Line
+	2250 5800 4050 5800
+Wire Wire Line
+	2400 5700 4050 5700
+Wire Wire Line
+	2100 5600 4050 5600
+Wire Wire Line
+	2100 1400 4050 1400
+Wire Wire Line
+	2250 1600 2250 3700
+Wire Wire Line
+	2400 1700 4050 1700
+Wire Wire Line
+	2250 1600 4050 1600
+Wire Wire Line
+	1950 1500 4050 1500
+Wire Wire Line
+	2400 3600 4050 3600
+Wire Wire Line
+	2400 3800 4050 3800
+Wire Wire Line
+	2250 3700 4050 3700
+Connection ~ 2250 3700
+Wire Wire Line
+	2250 3700 2250 5800
+Text Label 3200 4700 0    50   ~ 0
+GRP1_SEGE
+Text Label 3200 3900 0    50   ~ 0
+GRP1_SEGA
+Text Label 2650 4100 0    50   ~ 0
+GRP1_SEGA
+Text Label 3200 4100 0    50   ~ 0
+GRP1_SEGB
+Text Label 3200 4200 0    50   ~ 0
+GRP1_SEGC
+Text Label 2650 4300 0    50   ~ 0
+GRP1_SEGB
+Text Label 3200 4300 0    50   ~ 0
+GRP1_SEGD
+Text Label 3200 4400 0    50   ~ 0
+GRP1_SEGC
+Text Label 3200 4500 0    50   ~ 0
+GRP1_SEGD
+Text Label 5250 3800 0    50   ~ 0
+GRP1_SEGDP
+Text Label 5250 3900 0    50   ~ 0
+GRP1_SEGM
+Text Label 5250 4000 0    50   ~ 0
+GRP1_SEGL
+Text Label 5250 4100 0    50   ~ 0
+GRP1_SEGK
+Text Label 5250 4200 0    50   ~ 0
+GRP1_SEGJ
+Text Label 5250 4300 0    50   ~ 0
+GRP1_SEGI
+Text Label 5250 4400 0    50   ~ 0
+GRP1_SEGH
+Text Label 5250 4500 0    50   ~ 0
+GRP1_SEGG2
+Text Label 5250 4600 0    50   ~ 0
+GRP1_SEGG1
+Text Label 5250 4700 0    50   ~ 0
+GRP1_SEGF
+Text Label 5150 1700 0    50   ~ 0
+GRP2_SEGDP
+Text Label 5150 1800 0    50   ~ 0
+GRP2_SEGM
+Text Label 5150 1900 0    50   ~ 0
+GRP2_SEGL
+Text Label 5150 2000 0    50   ~ 0
+GRP2_SEGK
+Text Label 5150 2100 0    50   ~ 0
+GRP2_SEGJ
+Text Label 5150 2200 0    50   ~ 0
+GRP2_SEGI
+Text Label 5150 2300 0    50   ~ 0
+GRP2_SEGH
+Text Label 5150 2400 0    50   ~ 0
+GRP2_SEGG2
+Text Label 5150 2500 0    50   ~ 0
+GRP2_SEGG1
+Text Label 5150 2600 0    50   ~ 0
+GRP2_SEGF
+Text Label 3200 2600 0    50   ~ 0
+GRP2_SEGE
+Text Label 3200 1800 0    50   ~ 0
+GRP2_SEGA
+Text Label 2650 2000 0    50   ~ 0
+GRP2_SEGA
+Text Label 3200 2000 0    50   ~ 0
+GRP2_SEGB
+Text Label 3200 2100 0    50   ~ 0
+GRP2_SEGC
+Text Label 2650 2200 0    50   ~ 0
+GRP2_SEGB
+Text Label 3200 2200 0    50   ~ 0
+GRP2_SEGD
+Text Label 3200 2300 0    50   ~ 0
+GRP2_SEGC
+Text Label 3200 2400 0    50   ~ 0
+GRP2_SEGD
+Text Label 9150 950  0    50   ~ 0
+DIGIT0
+Text Label 9150 1050 0    50   ~ 0
+DIGIT1
+Text Label 9150 1150 0    50   ~ 0
+DIGIT2
+Text Label 9150 1250 0    50   ~ 0
+DIGIT3
+Text Label 9150 1350 0    50   ~ 0
+DIGIT4
+Text Label 9150 1450 0    50   ~ 0
+DIGIT5
+Text Label 9150 1550 0    50   ~ 0
+DIGIT6
+Text Label 9150 1650 0    50   ~ 0
+DIGIT7
+Wire Wire Line
+	8950 950  9150 950 
+Wire Wire Line
+	9150 1050 8950 1050
+Wire Wire Line
+	9150 1150 8950 1150
+Wire Wire Line
+	8950 1250 9150 1250
+Wire Wire Line
+	9150 1350 8950 1350
+Wire Wire Line
+	8950 1450 9150 1450
+Wire Wire Line
+	9150 1550 8950 1550
+Wire Wire Line
+	8950 1650 9150 1650
+Text Label 9150 1750 0    50   ~ 0
+DIGIT8
+Text Label 9150 1850 0    50   ~ 0
+DIGIT9
+Text Label 9150 1950 0    50   ~ 0
+DIGIT10
+Text Label 9150 2050 0    50   ~ 0
+DIGIT11
+Text Label 9150 2150 0    50   ~ 0
+DIGIT12
+Text Label 9150 2250 0    50   ~ 0
+DIGIT13
+Text Label 9150 2350 0    50   ~ 0
+DIGIT14
+Text Label 9150 2450 0    50   ~ 0
+DIGIT15
+Wire Wire Line
+	8950 1750 9150 1750
+Wire Wire Line
+	8950 1850 9150 1850
+Wire Wire Line
+	9150 1950 8950 1950
+Wire Wire Line
+	8950 2050 9150 2050
+Wire Wire Line
+	9150 2150 8950 2150
+Wire Wire Line
+	8950 2250 9150 2250
+Wire Wire Line
+	9150 2350 8950 2350
+Wire Wire Line
+	8950 2450 9150 2450
+Text Label 9150 2550 0    50   ~ 0
+DIGIT16
+Text Label 9150 2650 0    50   ~ 0
+DIGIT17
+Text Label 9150 2750 0    50   ~ 0
+DIGIT18
+Text Label 9150 2850 0    50   ~ 0
+DIGIT19
+Text Label 9150 2950 0    50   ~ 0
+DIGIT20
+Text Label 9150 3050 0    50   ~ 0
+DIGIT21
+Text Label 9150 3150 0    50   ~ 0
+DIGIT22
+Text Label 9150 3250 0    50   ~ 0
+DIGIT23
+Wire Wire Line
+	8950 2550 9150 2550
+Wire Wire Line
+	9150 2650 8950 2650
+Wire Wire Line
+	8950 2750 9150 2750
+Wire Wire Line
+	9150 2850 8950 2850
+Wire Wire Line
+	8950 2950 9150 2950
+Wire Wire Line
+	9150 3050 8950 3050
+Wire Wire Line
+	8950 3150 9150 3150
+Wire Wire Line
+	9150 3250 8950 3250
+Wire Wire Line
+	5050 6800 6550 6800
+Entry Wire Line
+	6550 6800 6650 6700
+Entry Wire Line
+	6550 6700 6650 6600
+Entry Wire Line
+	6550 6600 6650 6500
+Entry Wire Line
+	6550 6500 6650 6400
+Entry Wire Line
+	6550 6400 6650 6300
+Entry Wire Line
+	6550 6300 6650 6200
+Entry Wire Line
+	6550 6200 6650 6100
+Entry Wire Line
+	6550 6100 6650 6000
+Entry Wire Line
+	6550 6000 6650 5900
+Entry Wire Line
+	6550 5900 6650 5800
+Wire Wire Line
+	5050 6700 6550 6700
+Wire Wire Line
+	5050 6600 6550 6600
+Wire Wire Line
+	5050 6500 6550 6500
+Wire Wire Line
+	5050 6400 6550 6400
+Wire Wire Line
+	5050 6300 6550 6300
+Wire Wire Line
+	5050 6200 6550 6200
+Wire Wire Line
+	5050 6100 6550 6100
+Wire Wire Line
+	5050 6000 6550 6000
+Wire Wire Line
+	5050 5900 6550 5900
+Entry Wire Line
+	6100 4700 6200 4600
+Entry Wire Line
+	6100 4600 6200 4500
+Entry Wire Line
+	6100 4500 6200 4400
+Entry Wire Line
+	6100 4400 6200 4300
+Entry Wire Line
+	6100 4300 6200 4200
+Entry Wire Line
+	6100 4200 6200 4100
+Entry Wire Line
+	6100 4100 6200 4000
+Entry Wire Line
+	6100 4000 6200 3900
+Entry Wire Line
+	6100 3900 6200 3800
+Entry Wire Line
+	6100 3800 6200 3700
+Wire Wire Line
+	5050 4700 6100 4700
+Wire Wire Line
+	5050 4600 6100 4600
+Wire Wire Line
+	5050 4500 6100 4500
+Wire Wire Line
+	5050 4400 6100 4400
+Wire Wire Line
+	5050 4300 6100 4300
+Wire Wire Line
+	5050 4200 6100 4200
+Wire Wire Line
+	5050 4100 6100 4100
+Wire Wire Line
+	5050 4000 6100 4000
+Wire Wire Line
+	5050 3900 6100 3900
+Wire Wire Line
+	5050 3800 6100 3800
+Entry Wire Line
+	6650 5700 6750 5600
+Entry Wire Line
+	6650 5400 6750 5300
+Entry Wire Line
+	6650 5300 6750 5200
+Entry Wire Line
+	6650 5600 6750 5500
+Entry Wire Line
+	6650 5500 6750 5400
+Entry Wire Line
+	6650 5200 6750 5100
+Entry Wire Line
+	6650 5100 6750 5000
+Entry Wire Line
+	6650 5000 6750 4900
+Entry Wire Line
+	6650 4900 6750 4800
+Wire Wire Line
+	6750 5500 7700 5500
+Wire Wire Line
+	6750 5600 7700 5600
+Text Label 6800 5600 0    50   ~ 0
+GRP0_SEGA
+Wire Bus Line
+	6650 7400 2500 7400
+Entry Wire Line
+	2500 6100 2600 6000
+Wire Wire Line
+	2600 6000 4050 6000
+Entry Wire Line
+	2500 6300 2600 6200
+Wire Wire Line
+	2600 6200 4050 6200
+Wire Wire Line
+	2600 6300 4050 6300
+Wire Wire Line
+	2600 6400 4050 6400
+Wire Wire Line
+	2600 6500 4050 6500
+Wire Wire Line
+	2600 6600 4050 6600
+Wire Wire Line
+	2600 6800 4050 6800
+Entry Wire Line
+	2500 6900 2600 6800
+Entry Wire Line
+	2500 6700 2600 6600
+Entry Wire Line
+	2500 6600 2600 6500
+Entry Wire Line
+	2500 6500 2600 6400
+Entry Wire Line
+	2500 6400 2600 6300
+Text Label 6800 5500 0    50   ~ 0
+GRP0_SEGB
+Wire Wire Line
+	6750 5400 7700 5400
+Wire Wire Line
+	7700 5300 6750 5300
+Wire Wire Line
+	6750 5200 7700 5200
+Wire Wire Line
+	7700 5100 6750 5100
+Wire Wire Line
+	6750 5000 7700 5000
+Wire Wire Line
+	7700 4900 6750 4900
+Wire Wire Line
+	6750 4800 7700 4800
+Wire Wire Line
+	7700 4700 6750 4700
+Wire Wire Line
+	6750 4600 7700 4600
+Wire Wire Line
+	7700 4500 6750 4500
+Wire Wire Line
+	6750 4400 7700 4400
+Wire Wire Line
+	7700 4300 6750 4300
+Wire Wire Line
+	6750 4200 7700 4200
+Text Label 6800 5400 0    50   ~ 0
+GRP0_SEGC
+Text Label 6800 5300 0    50   ~ 0
+GRP0_SEGD
+Text Label 6800 5200 0    50   ~ 0
+GRP0_SEGE
+Text Label 6800 5100 0    50   ~ 0
+GRP0_SEGF
+Text Label 6800 5000 0    50   ~ 0
+GRP0_SEGH
+Text Label 6800 4900 0    50   ~ 0
+GRP0_SEGI
+Text Label 6800 4800 0    50   ~ 0
+GRP0_SEGJ
+Text Label 6800 4700 0    50   ~ 0
+GRP0_SEGG2
+Text Label 6800 4600 0    50   ~ 0
+GRP0_SEGK
+Text Label 6800 4500 0    50   ~ 0
+GRP0_SEGL
+Text Label 6800 4400 0    50   ~ 0
+GRP0_SEGM
+Text Label 6800 4300 0    50   ~ 0
+GRP0_SEGG1
+Text Label 6800 4200 0    50   ~ 0
+GRP0_SEGDP
+Entry Wire Line
+	6650 4300 6750 4200
+Entry Wire Line
+	6650 4400 6750 4300
+Entry Wire Line
+	6650 4500 6750 4400
+Entry Wire Line
+	6650 4600 6750 4500
+Entry Wire Line
+	6650 4700 6750 4600
+Entry Wire Line
+	6650 4800 6750 4700
+$Sheet
+S 7700 850  1250 4850
+U 61A1AFF4
+F0 "segments" 50
+F1 "segments.sch" 50
+F2 "DIGIT0" I R 8950 950 50 
+F3 "DIGIT1" I R 8950 1050 50 
+F4 "DIGIT2" I R 8950 1150 50 
+F5 "DIGIT3" I R 8950 1250 50 
+F6 "DIGIT4" I R 8950 1350 50 
+F7 "DIGIT5" I R 8950 1450 50 
+F8 "DIGIT6" I R 8950 1550 50 
+F9 "DIGIT7" I R 8950 1650 50 
+F10 "DIGIT8" I R 8950 1750 50 
+F11 "DIGIT9" I R 8950 1850 50 
+F12 "DIGIT10" I R 8950 1950 50 
+F13 "DIGIT11" I R 8950 2050 50 
+F14 "DIGIT12" I R 8950 2150 50 
+F15 "DIGIT13" I R 8950 2250 50 
+F16 "DIGIT14" I R 8950 2350 50 
+F17 "DIGIT15" I R 8950 2450 50 
+F18 "DIGIT16" I R 8950 2550 50 
+F19 "DIGIT17" I R 8950 2650 50 
+F20 "DIGIT18" I R 8950 2750 50 
+F21 "DIGIT19" I R 8950 2850 50 
+F22 "DIGIT20" I R 8950 2950 50 
+F23 "DIGIT21" I R 8950 3050 50 
+F24 "DIGIT22" I R 8950 3150 50 
+F25 "DIGIT23" I R 8950 3250 50 
+F26 "GRP0_SEGB" I L 7700 5500 50 
+F27 "GRP0_SEGA" I L 7700 5600 50 
+F28 "GRP0_SEGC" I L 7700 5400 50 
+F29 "GRP0_SEGD" I L 7700 5300 50 
+F30 "GRP0_SEGE" I L 7700 5200 50 
+F31 "GRP0_SEGF" I L 7700 5100 50 
+F32 "GRP0_SEGH" I L 7700 5000 50 
+F33 "GRP0_SEGI" I L 7700 4900 50 
+F34 "GRP0_SEGJ" I L 7700 4800 50 
+F35 "GRP0_SEGG2" I L 7700 4700 50 
+F36 "GRP0_SEGK" I L 7700 4600 50 
+F37 "GRP0_SEGL" I L 7700 4500 50 
+F38 "GRP0_SEGM" I L 7700 4400 50 
+F39 "GRP0_SEGG1" I L 7700 4300 50 
+F40 "GRP0_SEGDP" I L 7700 4200 50 
+F41 "GRP1_SEGA" I L 7700 4000 50 
+F42 "GRP1_SEGB" I L 7700 3900 50 
+F43 "GRP1_SEGC" I L 7700 3800 50 
+F44 "GRP1_SEGD" I L 7700 3700 50 
+F45 "GRP1_SEGE" I L 7700 3600 50 
+F46 "GRP1_SEGF" I L 7700 3500 50 
+F47 "GRP1_SEGH" I L 7700 3400 50 
+F48 "GRP1_SEGI" I L 7700 3300 50 
+F49 "GRP1_SEGJ" I L 7700 3200 50 
+F50 "GRP1_SEGG2" I L 7700 3100 50 
+F51 "GRP1_SEGK" I L 7700 3000 50 
+F52 "GRP1_SEGL" I L 7700 2900 50 
+F53 "GRP1_SEGM" I L 7700 2800 50 
+F54 "GRP1_SEGG1" I L 7700 2700 50 
+F55 "GRP1_SEGDP" I L 7700 2600 50 
+F56 "GRP2_SEGA" I L 7700 2400 50 
+F57 "GRP2_SEGB" I L 7700 2300 50 
+F58 "GRP2_SEGC" I L 7700 2200 50 
+F59 "GRP2_SEGD" I L 7700 2100 50 
+F60 "GRP2_SEGE" I L 7700 2000 50 
+F61 "GRP2_SEGF" I L 7700 1900 50 
+F62 "GRP2_SEGH" I L 7700 1800 50 
+F63 "GRP2_SEGI" I L 7700 1700 50 
+F64 "GRP2_SEGJ" I L 7700 1600 50 
+F65 "GRP2_SEGG2" I L 7700 1500 50 
+F66 "GRP2_SEGK" I L 7700 1400 50 
+F67 "GRP2_SEGL" I L 7700 1300 50 
+F68 "GRP2_SEGM" I L 7700 1200 50 
+F69 "GRP2_SEGG1" I L 7700 1100 50 
+F70 "GRP2_SEGDP" I L 7700 1000 50 
+$EndSheet
+Entry Wire Line
+	6300 3100 6200 3200
+Entry Wire Line
+	6300 3200 6200 3300
+Entry Wire Line
+	6300 3300 6200 3400
+Entry Wire Line
+	6300 3400 6200 3500
+Entry Wire Line
+	6300 3500 6200 3600
+Entry Wire Line
+	6300 3600 6200 3700
+Entry Wire Line
+	6300 3700 6200 3800
+Entry Wire Line
+	6300 3800 6200 3900
+Entry Wire Line
+	6300 3900 6200 4000
+Entry Wire Line
+	6300 4000 6200 4100
+Wire Wire Line
+	6300 4000 7700 4000
+Wire Wire Line
+	6300 3900 7700 3900
+Wire Wire Line
+	7700 3800 6300 3800
+Wire Wire Line
+	6300 3700 7700 3700
+Wire Wire Line
+	7700 3600 6300 3600
+Wire Wire Line
+	6300 3500 7700 3500
+Wire Wire Line
+	7700 3400 6300 3400
+Wire Wire Line
+	6300 3300 7700 3300
+Wire Wire Line
+	7700 3200 6300 3200
+Wire Wire Line
+	6300 3100 7700 3100
+Wire Bus Line
+	6200 5100 2500 5100
+Entry Wire Line
+	2500 4000 2600 3900
+Entry Wire Line
+	2500 4200 2600 4100
+Entry Wire Line
+	2500 4300 2600 4200
+Entry Wire Line
+	2500 4400 2600 4300
+Entry Wire Line
+	2500 4500 2600 4400
+Entry Wire Line
+	2500 4600 2600 4500
+Entry Wire Line
+	2500 4800 2600 4700
+Wire Wire Line
+	2600 4700 4050 4700
+Wire Wire Line
+	2600 4500 4050 4500
+Wire Wire Line
+	2600 4400 4050 4400
+Wire Wire Line
+	2600 4300 4050 4300
+Wire Wire Line
+	2600 4200 4050 4200
+Wire Wire Line
+	2600 4100 4050 4100
+Wire Wire Line
+	2600 3900 4050 3900
+Entry Wire Line
+	6200 2700 6300 2600
+Entry Wire Line
+	6200 2800 6300 2700
+Entry Wire Line
+	6200 2900 6300 2800
+Entry Wire Line
+	6200 3000 6300 2900
+Entry Wire Line
+	6200 3100 6300 3000
+Wire Wire Line
+	6300 3000 7700 3000
+Wire Wire Line
+	7700 2900 6300 2900
+Wire Wire Line
+	6300 2800 7700 2800
+Wire Wire Line
+	7700 2700 6300 2700
+Wire Wire Line
+	6300 2600 7700 2600
+Entry Wire Line
+	6050 2500 6150 2400
+Wire Wire Line
+	6150 2400 7700 2400
+Wire Wire Line
+	5050 2600 5950 2600
+Entry Wire Line
+	5950 2600 6050 2500
+Entry Wire Line
+	5950 2500 6050 2400
+Entry Wire Line
+	6050 2400 6150 2300
+Entry Wire Line
+	6050 2300 6150 2200
+Entry Wire Line
+	5950 2400 6050 2300
+Entry Wire Line
+	5950 2300 6050 2200
+Entry Wire Line
+	6050 2200 6150 2100
+Entry Wire Line
+	5950 2200 6050 2100
+Entry Wire Line
+	6050 2100 6150 2000
+Entry Wire Line
+	6050 2000 6150 1900
+Entry Wire Line
+	5950 2100 6050 2000
+Entry Wire Line
+	5950 2000 6050 1900
+Entry Wire Line
+	6050 1900 6150 1800
+Entry Wire Line
+	6050 1800 6150 1700
+Entry Wire Line
+	5950 1900 6050 1800
+Entry Wire Line
+	5950 1800 6050 1700
+Entry Wire Line
+	6050 1700 6150 1600
+Entry Wire Line
+	6050 1600 6150 1500
+Entry Wire Line
+	5950 1700 6050 1600
+Wire Wire Line
+	5050 1700 5950 1700
+Wire Wire Line
+	5050 1800 5950 1800
+Wire Wire Line
+	5050 1900 5950 1900
+Wire Wire Line
+	5050 2000 5950 2000
+Wire Wire Line
+	5050 2100 5950 2100
+Wire Wire Line
+	5050 2200 5950 2200
+Wire Wire Line
+	5050 2300 5950 2300
+Wire Wire Line
+	5050 2400 5950 2400
+Wire Wire Line
+	5050 2500 5950 2500
+Wire Wire Line
+	6150 2300 7700 2300
+Wire Wire Line
+	7700 2200 6150 2200
+Wire Wire Line
+	6150 2100 7700 2100
+Wire Wire Line
+	7700 2000 6150 2000
+Wire Wire Line
+	6150 1900 7700 1900
+Wire Wire Line
+	7700 1800 6150 1800
+Wire Wire Line
+	6150 1700 7700 1700
+Wire Wire Line
+	7700 1600 6150 1600
+Wire Wire Line
+	6150 1500 7700 1500
+Wire Wire Line
+	7700 1400 6150 1400
+Wire Wire Line
+	6150 1300 7700 1300
+Wire Wire Line
+	7700 1200 6150 1200
+Wire Wire Line
+	6150 1100 7700 1100
+Wire Wire Line
+	7700 1000 6150 1000
+Entry Wire Line
+	6050 1100 6150 1000
+Entry Wire Line
+	6050 1200 6150 1100
+Entry Wire Line
+	6050 1300 6150 1200
+Entry Wire Line
+	6050 1400 6150 1300
+Entry Wire Line
+	6050 1500 6150 1400
+Wire Bus Line
+	6050 3000 2500 3000
+Entry Wire Line
+	2500 1900 2600 1800
+Entry Wire Line
+	2500 2100 2600 2000
+Entry Wire Line
+	2500 2200 2600 2100
+Entry Wire Line
+	2500 2300 2600 2200
+Entry Wire Line
+	2500 2400 2600 2300
+Entry Wire Line
+	2500 2500 2600 2400
+Entry Wire Line
+	2500 2700 2600 2600
+Wire Wire Line
+	2600 2600 4050 2600
+Wire Wire Line
+	2600 2400 4050 2400
+Wire Wire Line
+	2600 2300 4050 2300
+Wire Wire Line
+	2600 2200 4050 2200
+Wire Wire Line
+	2600 2100 4050 2100
+Wire Wire Line
+	2600 2000 4050 2000
+Wire Wire Line
+	2600 1800 4050 1800
+Text Label 6850 3500 0    50   ~ 0
+GRP1_SEGF
+Text Label 6850 2600 0    50   ~ 0
+GRP1_SEGDP
+Text Label 6850 2800 0    50   ~ 0
+GRP1_SEGM
+Text Label 6850 2900 0    50   ~ 0
+GRP1_SEGL
+Text Label 6850 3000 0    50   ~ 0
+GRP1_SEGK
+Text Label 6850 3200 0    50   ~ 0
+GRP1_SEGJ
+Text Label 6850 3300 0    50   ~ 0
+GRP1_SEGI
+Text Label 6850 3400 0    50   ~ 0
+GRP1_SEGH
+Text Label 6850 3100 0    50   ~ 0
+GRP1_SEGG2
+Text Label 6850 2700 0    50   ~ 0
+GRP1_SEGG1
+Text Label 6850 3600 0    50   ~ 0
+GRP1_SEGE
+Text Label 6850 4000 0    50   ~ 0
+GRP1_SEGA
+Text Label 6850 3900 0    50   ~ 0
+GRP1_SEGB
+Text Label 6850 3800 0    50   ~ 0
+GRP1_SEGC
+Text Label 6850 3700 0    50   ~ 0
+GRP1_SEGD
+Text Label 6850 1000 0    50   ~ 0
+GRP2_SEGDP
+Text Label 6850 1200 0    50   ~ 0
+GRP2_SEGM
+Text Label 6850 1100 0    50   ~ 0
+GRP2_SEGG1
+Text Label 6850 1500 0    50   ~ 0
+GRP2_SEGG2
+Text Label 6850 1300 0    50   ~ 0
+GRP2_SEGL
+Text Label 6850 1400 0    50   ~ 0
+GRP2_SEGK
+Text Label 6850 1600 0    50   ~ 0
+GRP2_SEGJ
+Text Label 6850 1700 0    50   ~ 0
+GRP2_SEGI
+Text Label 6850 1800 0    50   ~ 0
+GRP2_SEGH
+Text Label 6850 1900 0    50   ~ 0
+GRP2_SEGF
+Text Label 6850 2000 0    50   ~ 0
+GRP2_SEGE
+Text Label 6850 2300 0    50   ~ 0
+GRP2_SEGB
+Text Label 6850 2400 0    50   ~ 0
+GRP2_SEGA
+Text Label 6850 2200 0    50   ~ 0
+GRP2_SEGC
+Text Label 6850 2100 0    50   ~ 0
+GRP2_SEGD
+$Comp
+L CpE_Power:GND #PWR?
+U 1 1 62112101
+P 9850 5150
+AR Path="/62112101" Ref="#PWR?"  Part="1" 
+AR Path="/619E20D9/62112101" Ref="#PWR04"  Part="1" 
+F 0 "#PWR04" H 9850 4900 50  0001 C CNN
+F 1 "GND" H 9855 4977 50  0000 C CNN
+F 2 "" H 9850 5150 50  0001 C CNN
+F 3 "" H 9850 5150 50  0001 C CNN
+F 4 "NA" H 9850 5150 50  0001 C CNN "CpE_PN"
+	1    9850 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L CpE_Power:VCC #PWR?
+U 1 1 62112108
+P 9850 4300
+AR Path="/62112108" Ref="#PWR?"  Part="1" 
+AR Path="/619E20D9/62112108" Ref="#PWR03"  Part="1" 
+F 0 "#PWR03" H 9850 4150 50  0001 C CNN
+F 1 "VCC" H 9865 4473 50  0000 C CNN
+F 2 "" H 9850 4300 50  0001 C CNN
+F 3 "" H 9850 4300 50  0001 C CNN
+F 4 "NA" H 9850 4300 50  0001 C CNN "CpE_PN"
+	1    9850 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L CpE_Capacitors:CpE-3001_Capacitor_0.1uF_0402 C7
+U 1 1 62A51984
+P 9250 4700
+F 0 "C7" H 9300 4600 50  0000 L CNN
+F 1 "CpE-3001_Capacitor_0.1uF_0402" H 9400 4650 50  0001 L CNN
+F 2 "CpE_Capacitors:CpE-3001_0402" H 10000 4850 50  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL05A104KA5NNNC.pdf" H 9250 4700 50  0001 C CNN
+F 4 "CPE-3001" H 9600 4750 50  0001 C CNN "CpE_PN"
+F 5 "0.1uF" H 9300 4500 50  0000 L CNN "Val"
+	1    9250 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L CpE_Capacitors:CpE-3001_Capacitor_0.1uF_0402 C8
+U 1 1 62A52019
+P 9850 4700
+F 0 "C8" H 9900 4600 50  0000 L CNN
+F 1 "CpE-3001_Capacitor_0.1uF_0402" H 10000 4650 50  0001 L CNN
+F 2 "CpE_Capacitors:CpE-3001_0402" H 10600 4850 50  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL05A104KA5NNNC.pdf" H 9850 4700 50  0001 C CNN
+F 4 "CPE-3001" H 10200 4750 50  0001 C CNN "CpE_PN"
+F 5 "0.1uF" H 9900 4500 50  0000 L CNN "Val"
+	1    9850 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L CpE_Capacitors:CpE-3001_Capacitor_0.1uF_0402 C9
+U 1 1 62A52380
+P 10450 4700
+F 0 "C9" H 10500 4600 50  0000 L CNN
+F 1 "CpE-3001_Capacitor_0.1uF_0402" H 10600 4650 50  0001 L CNN
+F 2 "CpE_Capacitors:CpE-3001_0402" H 11200 4850 50  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL05A104KA5NNNC.pdf" H 10450 4700 50  0001 C CNN
+F 4 "CPE-3001" H 10800 4750 50  0001 C CNN "CpE_PN"
+F 5 "0.1uF" H 10500 4500 50  0000 L CNN "Val"
+	1    10450 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L CpE_Power:VCC #PWR?
+U 1 1 62A7AF9F
+P 5750 6900
+AR Path="/62A7AF9F" Ref="#PWR?"  Part="1" 
+AR Path="/619E20D9/62A7AF9F" Ref="#PWR010"  Part="1" 
+F 0 "#PWR010" H 5750 6750 50  0001 C CNN
+F 1 "VCC" H 5765 7073 50  0000 C CNN
+F 2 "" H 5750 6900 50  0001 C CNN
+F 3 "" H 5750 6900 50  0001 C CNN
+F 4 "NA" H 5750 6900 50  0001 C CNN "CpE_PN"
+	1    5750 6900
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5050 6900 5250 6900
+Wire Wire Line
+	5250 6900 5250 7100
+Wire Wire Line
+	5250 7100 5050 7100
+$Comp
+L CpE_Power:GND #PWR?
+U 1 1 62A951E0
+P 2850 7100
+AR Path="/62A951E0" Ref="#PWR?"  Part="1" 
+AR Path="/619E20D9/62A951E0" Ref="#PWR07"  Part="1" 
+F 0 "#PWR07" H 2850 6850 50  0001 C CNN
+F 1 "GND" H 2855 6927 50  0000 C CNN
+F 2 "" H 2850 7100 50  0001 C CNN
+F 3 "" H 2850 7100 50  0001 C CNN
+F 4 "NA" H 2850 7100 50  0001 C CNN "CpE_PN"
+	1    2850 7100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3800 7100 3800 6900
+Wire Wire Line
+	3800 6900 4050 6900
+Wire Wire Line
+	3800 7100 4050 7100
+$Comp
+L CpE_Power:GND #PWR?
+U 1 1 62AB0BD0
+P 2850 4900
+AR Path="/62AB0BD0" Ref="#PWR?"  Part="1" 
+AR Path="/619E20D9/62AB0BD0" Ref="#PWR06"  Part="1" 
+F 0 "#PWR06" H 2850 4650 50  0001 C CNN
+F 1 "GND" H 2855 4727 50  0000 C CNN
+F 2 "" H 2850 4900 50  0001 C CNN
+F 3 "" H 2850 4900 50  0001 C CNN
+F 4 "NA" H 2850 4900 50  0001 C CNN "CpE_PN"
+	1    2850 4900
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3800 4800 4050 4800
+Wire Wire Line
+	3800 5000 4050 5000
+Wire Wire Line
+	5050 5000 5250 5000
+Wire Wire Line
+	5250 5000 5250 4800
+Wire Wire Line
+	5250 4800 5050 4800
+$Comp
+L CpE_Power:VCC #PWR?
+U 1 1 62ADC14D
+P 5600 5000
+AR Path="/62ADC14D" Ref="#PWR?"  Part="1" 
+AR Path="/619E20D9/62ADC14D" Ref="#PWR09"  Part="1" 
+F 0 "#PWR09" H 5600 4850 50  0001 C CNN
+F 1 "VCC" H 5615 5173 50  0000 C CNN
+F 2 "" H 5600 5000 50  0001 C CNN
+F 3 "" H 5600 5000 50  0001 C CNN
+F 4 "NA" H 5600 5000 50  0001 C CNN "CpE_PN"
+	1    5600 5000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5600 5000 5250 5000
+Connection ~ 5250 5000
+$Comp
+L CpE_Power:GND #PWR?
+U 1 1 62AEC34A
+P 2850 2800
+AR Path="/62AEC34A" Ref="#PWR?"  Part="1" 
+AR Path="/619E20D9/62AEC34A" Ref="#PWR05"  Part="1" 
+F 0 "#PWR05" H 2850 2550 50  0001 C CNN
+F 1 "GND" H 2855 2627 50  0000 C CNN
+F 2 "" H 2850 2800 50  0001 C CNN
+F 3 "" H 2850 2800 50  0001 C CNN
+F 4 "NA" H 2850 2800 50  0001 C CNN "CpE_PN"
+	1    2850 2800
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3800 2900 3800 2700
+Wire Wire Line
+	3800 2700 4050 2700
+Wire Wire Line
+	3800 2900 4050 2900
+Wire Wire Line
+	5050 2900 5250 2900
+Wire Wire Line
+	5250 2900 5250 2700
+Wire Wire Line
+	5250 2700 5050 2700
+$Comp
+L CpE_Power:VCC #PWR?
+U 1 1 62AFC2C7
+P 5600 2900
+AR Path="/62AFC2C7" Ref="#PWR?"  Part="1" 
+AR Path="/619E20D9/62AFC2C7" Ref="#PWR08"  Part="1" 
+F 0 "#PWR08" H 5600 2750 50  0001 C CNN
+F 1 "VCC" H 5615 3073 50  0000 C CNN
+F 2 "" H 5600 2900 50  0001 C CNN
+F 3 "" H 5600 2900 50  0001 C CNN
+F 4 "NA" H 5600 2900 50  0001 C CNN "CpE_PN"
+	1    5600 2900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5600 2900 5250 2900
+Connection ~ 5250 2900
+Text Label 3950 5400 2    50   ~ 0
+GRP0_P0
+Text Label 3950 5500 2    50   ~ 0
+GRP0_P1
+Text Label 5200 5600 0    50   ~ 0
+GRP0_P2
+Text Label 5200 5500 0    50   ~ 0
+GRP0_P3
+Text Label 5200 5400 0    50   ~ 0
+GRP0_P3
+Wire Wire Line
+	3950 5400 4050 5400
+Wire Wire Line
+	3950 5500 4050 5500
+$Comp
+L CpE_Capacitors:CpE-3007_Capacitor_22pF_50V_0402 C10
+U 1 1 62B6319D
+P 5400 7250
+F 0 "C10" V 5148 7250 50  0000 C CNN
+F 1 "CpE-3007_Capacitor_22pF_50V_0402" H 6200 7350 50  0001 C CNN
+F 2 "CpE_Capacitors:CpE-3007_0402" H 6100 7250 50  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL05C220JB5NNNC_Spec.pdf" H 5400 7250 50  0001 C CNN
+F 4 "22pF" V 5239 7250 50  0000 C CNN "Val"
+	1    5400 7250
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5050 7000 5150 7000
+Wire Wire Line
+	5150 7000 5150 7250
+Wire Wire Line
+	5150 7250 5250 7250
+$Comp
+L CpE_Power:GND #PWR?
+U 1 1 62B98BE5
+P 5750 7250
+AR Path="/62B98BE5" Ref="#PWR?"  Part="1" 
+AR Path="/619E20D9/62B98BE5" Ref="#PWR011"  Part="1" 
+F 0 "#PWR011" H 5750 7000 50  0001 C CNN
+F 1 "GND" H 5755 7077 50  0000 C CNN
+F 2 "" H 5750 7250 50  0001 C CNN
+F 3 "" H 5750 7250 50  0001 C CNN
+F 4 "NA" H 5750 7250 50  0001 C CNN "CpE_PN"
+	1    5750 7250
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5750 7250 5550 7250
+Wire Wire Line
+	5750 6900 5250 6900
+Connection ~ 5250 6900
+Wire Wire Line
+	5050 5400 5200 5400
+Wire Wire Line
+	5050 5500 5200 5500
+Wire Wire Line
+	5050 5600 5200 5600
+Wire Wire Line
+	5050 5700 5150 5700
+Wire Wire Line
+	5150 5700 5150 4900
+Wire Wire Line
+	5150 4900 5050 4900
+Text Label 5200 5700 0    50   ~ 0
+OSC_TIE
+Connection ~ 5150 5700
+Wire Wire Line
+	5150 4900 5150 2800
+Wire Wire Line
+	5150 2800 5050 2800
+Connection ~ 5150 4900
+NoConn ~ 5050 1500
+Text Label 5200 3500 0    50   ~ 0
+GRP1_P2
+Text Label 5200 3400 0    50   ~ 0
+GRP1_P3
+Text Label 5200 3300 0    50   ~ 0
+GRP1_P3
+Wire Wire Line
+	5050 3300 5200 3300
+Wire Wire Line
+	5050 3400 5200 3400
+Wire Wire Line
+	5050 3500 5200 3500
+Text Label 5200 1400 0    50   ~ 0
+GRP2_P2
+Text Label 5200 1300 0    50   ~ 0
+GRP2_P3
+Text Label 5200 1200 0    50   ~ 0
+GRP2_P3
+Wire Wire Line
+	5050 1200 5200 1200
+Wire Wire Line
+	5050 1300 5200 1300
+Wire Wire Line
+	5050 1400 5200 1400
+Text Label 3950 3300 2    50   ~ 0
+GRP1_P0
+Text Label 3950 3400 2    50   ~ 0
+GRP1_P1
+Wire Wire Line
+	3950 3300 4050 3300
+Wire Wire Line
+	3950 3400 4050 3400
+Text Label 3950 1200 2    50   ~ 0
+GRP2_P0
+Text Label 3950 1300 2    50   ~ 0
+GRP2_P1
+Wire Wire Line
+	3950 1200 4050 1200
+Wire Wire Line
+	3950 1300 4050 1300
+Wire Wire Line
+	4050 3500 2100 3500
+Connection ~ 2100 3500
+Wire Wire Line
+	2100 3500 2100 5600
+NoConn ~ 5050 3600
+Text Notes 7150 6250 0    50   ~ 0
+TODO\n> Should OSC_OUT of U4 feed U3 & U2 directly? Or should OSC_OUT of each feed the next?\n> Can BLINKs be tied together?\n> Impliment button matrix on GPIOs
+Wire Notes Line
+	7050 5950 10950 5950
+Wire Notes Line
+	10950 5950 10950 6500
+Wire Notes Line
+	10950 6500 7050 6500
+Wire Notes Line
+	7050 6500 7050 5950
+$Comp
+L CpE_Resistors:CpE-3008_56k_0.0625W_1%_0402 R3
+U 1 1 62CE3B69
+P 3200 7000
+F 0 "R3" V 3300 7000 50  0000 C CNN
+F 1 "CpE-3008_56k_0.0625W_1%_0402" H 3950 7050 50  0001 C CNN
+F 2 "CpE_Resistors:CpE-3008_0402" H 3900 6850 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/vishay-dale/CRCW040256K0FKED/1178206" H 3200 7000 50  0001 C CNN
+F 4 "56k" V 3200 7000 50  0000 C CNN "Val"
+F 5 "3008" H 3400 6950 50  0001 C CNN "CpE_PN"
+	1    3200 7000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2850 7100 3000 7100
+Wire Wire Line
+	3050 7000 3000 7000
+Wire Wire Line
+	3000 7000 3000 7100
+Connection ~ 3000 7100
+$Comp
+L CpE_Resistors:CpE-3008_56k_0.0625W_1%_0402 R2
+U 1 1 62D26B47
+P 3200 4900
+F 0 "R2" V 3300 4900 50  0000 C CNN
+F 1 "CpE-3008_56k_0.0625W_1%_0402" H 3950 4950 50  0001 C CNN
+F 2 "CpE_Resistors:CpE-3008_0402" H 3900 4750 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/vishay-dale/CRCW040256K0FKED/1178206" H 3200 4900 50  0001 C CNN
+F 4 "56k" V 3200 4900 50  0000 C CNN "Val"
+F 5 "3008" H 3400 4850 50  0001 C CNN "CpE_PN"
+	1    3200 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CpE_Resistors:CpE-3008_56k_0.0625W_1%_0402 R1
+U 1 1 62D27A81
+P 3200 2800
+F 0 "R1" V 3300 2800 50  0000 C CNN
+F 1 "CpE-3008_56k_0.0625W_1%_0402" H 3950 2850 50  0001 C CNN
+F 2 "CpE_Resistors:CpE-3008_0402" H 3900 2650 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/vishay-dale/CRCW040256K0FKED/1178206" H 3200 2800 50  0001 C CNN
+F 4 "56k" V 3200 2800 50  0000 C CNN "Val"
+F 5 "3008" H 3400 2750 50  0001 C CNN "CpE_PN"
+	1    3200 2800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5050 5800 5850 5800
+Wire Wire Line
+	5850 5800 5850 3700
+Wire Wire Line
+	5850 3700 5050 3700
+Wire Wire Line
+	5850 3700 5850 1600
+Wire Wire Line
+	5850 1600 5050 1600
+Connection ~ 5850 3700
+Text Label 5200 5800 0    50   ~ 0
+BLINK
+$Comp
+L CpE_Schem_Utils:CpE_Test_Point TP2
+U 1 1 62DEC9D1
+P 5850 1050
+F 0 "TP2" H 5800 1250 50  0000 L CNN
+F 1 "BLINK" H 5900 1150 50  0000 L CNN
+F 2 "CpE_Test_Points:CpE_TP_D2.0mm" H 6550 950 50  0001 C CNN
+F 3 "" H 5850 1050 50  0001 C CNN
+	1    5850 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L CpE_Schem_Utils:CpE_Test_Point TP1
+U 1 1 62E1E623
+P 5750 800
+F 0 "TP1" H 5700 1000 50  0000 L CNN
+F 1 "OSC_OUT" H 5800 900 50  0000 L CNN
+F 2 "CpE_Test_Points:CpE_TP_D2.0mm" H 6450 700 50  0001 C CNN
+F 3 "" H 5750 800 50  0001 C CNN
+	1    5750 800 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5150 5700 5750 5700
+Wire Wire Line
+	5750 800  5750 5700
+Wire Wire Line
+	5850 1050 5850 1600
+Connection ~ 5850 1600
+Text Label 3750 7000 2    50   ~ 0
+GRP0_ISET
+Wire Wire Line
+	3350 7000 4050 7000
+Wire Wire Line
+	3000 7100 3800 7100
+Connection ~ 3800 7100
+Wire Wire Line
+	3800 5000 3800 4800
+Text Label 3750 4900 2    50   ~ 0
+GRP1_ISET
+Wire Wire Line
+	3350 4900 4050 4900
+Wire Wire Line
+	2850 4900 2950 4900
+Wire Wire Line
+	2950 4900 2950 5000
+Wire Wire Line
+	2950 5000 3800 5000
+Connection ~ 2950 4900
+Wire Wire Line
+	2950 4900 3050 4900
+Connection ~ 3800 5000
+Wire Wire Line
+	2850 2800 2950 2800
+Wire Wire Line
+	3350 2800 4050 2800
+Wire Wire Line
+	3800 2900 2950 2900
+Wire Wire Line
+	2950 2900 2950 2800
+Connection ~ 3800 2900
+Connection ~ 2950 2800
+Wire Wire Line
+	2950 2800 3050 2800
+Text Label 3750 2800 2    50   ~ 0
+GRP2_ISET
+Text Label 5150 7250 2    50   ~ 0
+OSC
+$Comp
+L CpE_Capacitors:CpE-3010_47uF_35V_6.3mm C?
+U 1 1 62FE5452
+P 10750 4700
+F 0 "C?" H 10800 4600 50  0000 L CNN
+F 1 "CpE-3010_47uF_35V_6.3mm" H 11400 4800 50  0001 C CNN
+F 2 "CpE_Capacitors:CpE-3010_47uF_35V_6.3mm_SMD" H 11800 4700 50  0001 C CNN
+F 3 "https://www.we-online.com/katalog/datasheet/865080543009.pdf" H 10750 4700 50  0001 C CNN
+F 4 "3010" H 10950 4650 50  0001 C CNN "CpE_PN"
+F 5 "47u" H 10800 4500 50  0000 L CNN "Val"
+	1    10750 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L CpE_Capacitors:CpE-3010_47uF_35V_6.3mm C?
+U 1 1 62FE6551
+P 10150 4700
+F 0 "C?" H 10200 4600 50  0000 L CNN
+F 1 "CpE-3010_47uF_35V_6.3mm" H 10800 4800 50  0001 C CNN
+F 2 "CpE_Capacitors:CpE-3010_47uF_35V_6.3mm_SMD" H 11200 4700 50  0001 C CNN
+F 3 "https://www.we-online.com/katalog/datasheet/865080543009.pdf" H 10150 4700 50  0001 C CNN
+F 4 "3010" H 10350 4650 50  0001 C CNN "CpE_PN"
+F 5 "47u" H 10200 4500 50  0000 L CNN "Val"
+	1    10150 4700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9850 4850 9850 5050
+Wire Wire Line
+	9850 4300 9850 4400
+$Comp
+L CpE_Capacitors:CpE-3010_47uF_35V_6.3mm C?
+U 1 1 62FE7096
+P 9550 4700
+F 0 "C?" H 9600 4600 50  0000 L CNN
+F 1 "CpE-3010_47uF_35V_6.3mm" H 10200 4800 50  0001 C CNN
+F 2 "CpE_Capacitors:CpE-3010_47uF_35V_6.3mm_SMD" H 10600 4700 50  0001 C CNN
+F 3 "https://www.we-online.com/katalog/datasheet/865080543009.pdf" H 9550 4700 50  0001 C CNN
+F 4 "3010" H 9750 4650 50  0001 C CNN "CpE_PN"
+F 5 "47u" H 9600 4500 50  0000 L CNN "Val"
+	1    9550 4700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9250 4550 9250 4400
+Wire Wire Line
+	9250 4400 9550 4400
+Connection ~ 9850 4400
+Wire Wire Line
+	9850 4400 9850 4550
+Wire Wire Line
+	9850 4400 10150 4400
+Wire Wire Line
+	10750 4400 10750 4550
+Wire Wire Line
+	10450 4550 10450 4400
+Connection ~ 10450 4400
+Wire Wire Line
+	10450 4400 10750 4400
+Wire Wire Line
+	10150 4550 10150 4400
+Connection ~ 10150 4400
+Wire Wire Line
+	10150 4400 10450 4400
+Wire Wire Line
+	9850 5050 10150 5050
+Wire Wire Line
+	10750 5050 10750 4850
+Connection ~ 9850 5050
+Wire Wire Line
+	9850 5050 9850 5150
+Wire Wire Line
+	10450 4850 10450 5050
+Connection ~ 10450 5050
+Wire Wire Line
+	10450 5050 10750 5050
+Wire Wire Line
+	10150 5050 10150 4850
+Connection ~ 10150 5050
+Wire Wire Line
+	10150 5050 10450 5050
+Wire Wire Line
+	9550 4850 9550 5050
+Wire Wire Line
+	9550 5050 9850 5050
+Wire Wire Line
+	9550 5050 9250 5050
+Wire Wire Line
+	9250 5050 9250 4850
+Connection ~ 9550 5050
+Wire Wire Line
+	9550 4550 9550 4400
+Wire Bus Line
+	2500 6100 2500 7400
+Wire Bus Line
+	2500 4000 2500 5100
+Wire Bus Line
+	2500 1900 2500 3000
+Wire Bus Line
+	6050 1100 6050 3000
+Wire Bus Line
+	6650 4300 6650 7400
+Wire Bus Line
+	6200 2700 6200 5100
+Connection ~ 9550 4400
+Wire Wire Line
+	9550 4400 9850 4400
+$EndSCHEMATC
